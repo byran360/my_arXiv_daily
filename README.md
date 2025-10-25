@@ -18,12 +18,12 @@
 |**2025-10-23**|**Unsupervised Domain Adaptation via Similarity-based Prototypes for Cross-Modality Segmentation**|Ziyu Ye et.al.|[2510.20596](https://arxiv.org/abs/2510.20596)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-23**|**RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging**|Bowen Wang et.al.|[2510.20479](https://arxiv.org/abs/2510.20479)|**[link](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)**|
 |**2025-10-23**|**IKnow: Instruction-Knowledge-Aware Continual Pretraining for Effective Domain Adaptation**|Tianyi Zhang et.al.|[2510.20377](https://arxiv.org/abs/2510.20377)|**[link](https://github.com/wonderNefelibata/Awesome-LRM-Safety)**|
-|**2025-10-23**|**Synthetic Data for Robust Runway Detection**|Estelle Chigot et.al.|[2510.20349](https://arxiv.org/abs/2510.20349)|null|
+|**2025-10-23**|**Synthetic Data for Robust Runway Detection**|Estelle Chigot et.al.|[2510.20349](https://arxiv.org/abs/2510.20349)|**[link](https://github.com/Jchim1102/cv-arxiv-daily-COD)**|
 |**2025-10-23**|**A Structured Review and Quantitative Profiling of Public Brain MRI Datasets for Foundation Model Development**|Minh Sao Khue Luu et.al.|[2510.20196](https://arxiv.org/abs/2510.20196)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-10-22**|**Curvilinear Structure-preserving Unpaired Cross-domain Medical Image Translation**|Zihao Chen et.al.|[2510.19679](https://arxiv.org/abs/2510.19679)|**[link](https://github.com/randomrisk/NeuroAI-Daily-Arxiv)**|
+|**2025-10-22**|**Curvilinear Structure-preserving Unpaired Cross-domain Medical Image Translation**|Zihao Chen et.al.|[2510.19679](https://arxiv.org/abs/2510.19679)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
 |**2025-10-22**|**CDI-DTI: A Strong Cross-domain Interpretable Drug-Target Interaction Prediction Framework Based on Multi-Strategy Fusion**|Xiangyu Li et.al.|[2510.19520](https://arxiv.org/abs/2510.19520)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
-|**2025-10-22**|**Towards Single-Source Domain Generalized Object Detection via Causal Visual Prompts**|Chen Li et.al.|[2510.19487](https://arxiv.org/abs/2510.19487)|null|
-|**2025-10-22**|**PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation**|Zhuoyang Xie et.al.|[2510.19475](https://arxiv.org/abs/2510.19475)|null|
+|**2025-10-22**|**Towards Single-Source Domain Generalized Object Detection via Causal Visual Prompts**|Chen Li et.al.|[2510.19487](https://arxiv.org/abs/2510.19487)|**[link](https://github.com/zhouchanggeng/DailyArXiv)**|
+|**2025-10-22**|**PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation**|Zhuoyang Xie et.al.|[2510.19475](https://arxiv.org/abs/2510.19475)|**[link](https://github.com/JiamingZang/DailyArxiv)**|
 |**2025-10-22**|**Exploring Scale Shift in Crowd Localization under the Context of Domain Generalization**|Juncheng Wang et.al.|[2510.19330](https://arxiv.org/abs/2510.19330)|null|
 |**2025-10-21**|**XGen-Q: An Explainable Domain-Adaptive LLM Framework with Retrieval-Augmented Generation for Software Security**|Hamed Jelodar et.al.|[2510.19006](https://arxiv.org/abs/2510.19006)|null|
 |**2025-10-21**|**SemiAdapt and SemiLoRA: Efficient Domain Adaptation for Transformer-based Low-Resource Language Translation with a Case Study on Irish**|Josh McGiff et.al.|[2510.18725](https://arxiv.org/abs/2510.18725)|**[link](https://github.com/chenin-wang/awesome_ai_paper)**|
@@ -35,16 +35,16 @@
 |**2025-10-18**|**When Intelligence Fails: An Empirical Study on Why LLMs Struggle with Password Cracking**|Mohammad Abdul Rehman et.al.|[2510.17884](https://arxiv.org/abs/2510.17884)|null|
 |**2025-10-20**|**Muscle Anatomy-aware Geometric Deep Learning for sEMG-based Gesture Decoding**|Adyasha Dash et.al.|[2510.17660](https://arxiv.org/abs/2510.17660)|**[link](https://github.com/zezhishao/DailyArXiv)**|
 |**2025-10-20**|**DAMSDAN: Distribution-Aware Multi-Source Domain Adaptation Network for Cross-Domain EEG-based Emotion Recognition**|Fo Hu et.al.|[2510.17475](https://arxiv.org/abs/2510.17475)|**[link](https://github.com/randomrisk/NeuroAI-Daily-Arxiv)**|
-|**2025-10-20**|**HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery**|Vaibhav Rathore et.al.|[2510.17188](https://arxiv.org/abs/2510.17188)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
-|**2025-10-19**|**Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis**|Praveenbalaji Rajendran et.al.|[2510.16973](https://arxiv.org/abs/2510.16973)|null|
+|**2025-10-20**|**HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery**|Vaibhav Rathore et.al.|[2510.17188](https://arxiv.org/abs/2510.17188)|null|
+|**2025-10-19**|**Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis**|Praveenbalaji Rajendran et.al.|[2510.16973](https://arxiv.org/abs/2510.16973)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
 |**2025-10-19**|**Robust Cross-Domain Adaptation in Texture Features Transferring for Wood Chip Moisture Content Prediction**|Abdur Rahman et.al.|[2510.16832](https://arxiv.org/abs/2510.16832)|null|
 |**2025-10-19**|**ReefNet: A Large scale, Taxonomically Enriched Dataset and Benchmark for Hard Coral Classification**|Yahia Battach et.al.|[2510.16822](https://arxiv.org/abs/2510.16822)|null|
 |**2025-10-19**|**MOSAIC: Masked Objective with Selective Adaptation for In-domain Contrastive Learning**|Vera Pavlova et.al.|[2510.16797](https://arxiv.org/abs/2510.16797)|null|
-|**2025-10-19**|**Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization**|Tianxin Wei et.al.|[2510.16704](https://arxiv.org/abs/2510.16704)|**[link](https://github.com/weitianxin/DCCL)**|
+|**2025-10-19**|**Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization**|Tianxin Wei et.al.|[2510.16704](https://arxiv.org/abs/2510.16704)|null|
 |**2025-10-18**|**Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy**|Shan Xiong et.al.|[2510.16450](https://arxiv.org/abs/2510.16450)|null|
-|**2025-10-18**|**Humanoid-inspired Causal Representation Learning for Domain Generalization**|Ze Tao et.al.|[2510.16382](https://arxiv.org/abs/2510.16382)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-10-18**|**Humanoid-inspired Causal Representation Learning for Domain Generalization**|Ze Tao et.al.|[2510.16382](https://arxiv.org/abs/2510.16382)|null|
 |**2025-10-18**|**Navigating through the hidden embedding space: steering LLMs to improve mental health assessment**|Federico Ravenda et.al.|[2510.16373](https://arxiv.org/abs/2510.16373)|null|
-|**2025-10-18**|**Cataract-LMM: Large-Scale, Multi-Source, Multi-Task Benchmark for Deep Learning in Surgical Video Analysis**|Mohammad Javad Ahmadi et.al.|[2510.16371](https://arxiv.org/abs/2510.16371)|null|
+|**2025-10-18**|**Cataract-LMM: Large-Scale, Multi-Source, Multi-Task Benchmark for Deep Learning in Surgical Video Analysis**|Mohammad Javad Ahmadi et.al.|[2510.16371](https://arxiv.org/abs/2510.16371)|**[link](https://github.com/MJAHMADEE/Cataract-LMM)**|
 |**2025-10-17**|**Deep Learning Based Domain Adaptation Methods in Remote Sensing: A Comprehensive Survey**|Shuchang Lyu et.al.|[2510.15615](https://arxiv.org/abs/2510.15615)|null|
 |**2025-10-17**|**Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs**|Sho Okazaki et.al.|[2510.15428](https://arxiv.org/abs/2510.15428)|null|
 |**2025-10-17**|**Adaptive Minds: Empowering Agents with LoRA-as-Tools**|Pavan C Shekar et.al.|[2510.15416](https://arxiv.org/abs/2510.15416)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
@@ -448,34 +448,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Yuhan Liu et.al.|[2510.20812](https://arxiv.org/abs/2510.20812)|null|
-|**2025-10-23**|**Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models**|Xuyang Liu et.al.|[2510.20707](https://arxiv.org/abs/2510.20707)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-10-23**|**Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward**|Jing Bi et.al.|[2510.20696](https://arxiv.org/abs/2510.20696)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-10-23**|**Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging**|Ibrahim Ethem Hamamci et.al.|[2510.20639](https://arxiv.org/abs/2510.20639)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-10-23**|**Bi-CoG: Bi-Consistency-Guided Self-Training for Vision-Language Models**|Rui Zhu et.al.|[2510.20477](https://arxiv.org/abs/2510.20477)|**[link](https://github.com/zbr17/Arxiv-Daily)**|
-|**2025-10-23**|**GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?**|Chiyu Chen et.al.|[2510.20333](https://arxiv.org/abs/2510.20333)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
+|**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Yuhan Liu et.al.|[2510.20812](https://arxiv.org/abs/2510.20812)|**[link](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning)**|
+|**2025-10-23**|**Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models**|Xuyang Liu et.al.|[2510.20707](https://arxiv.org/abs/2510.20707)|**[link](https://github.com/ZJU-REAL/Awesome-GUI-Agents)**|
+|**2025-10-23**|**Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward**|Jing Bi et.al.|[2510.20696](https://arxiv.org/abs/2510.20696)|null|
+|**2025-10-23**|**Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging**|Ibrahim Ethem Hamamci et.al.|[2510.20639](https://arxiv.org/abs/2510.20639)|null|
+|**2025-10-23**|**Bi-CoG: Bi-Consistency-Guided Self-Training for Vision-Language Models**|Rui Zhu et.al.|[2510.20477](https://arxiv.org/abs/2510.20477)|null|
+|**2025-10-23**|**GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?**|Chiyu Chen et.al.|[2510.20333](https://arxiv.org/abs/2510.20333)|null|
 |**2025-10-23**|**Breakdance Video classification in the age of Generative AI**|Sauptik Dhar et.al.|[2510.20287](https://arxiv.org/abs/2510.20287)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-23**|**Empower Words: DualGround for Structured Phrase and Sentence-Level Temporal Grounding**|Minseok Kang et.al.|[2510.20244](https://arxiv.org/abs/2510.20244)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-23**|**Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context**|Ge Zheng et.al.|[2510.20229](https://arxiv.org/abs/2510.20229)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-22**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Mathieu Andreux et.al.|[2510.19949](https://arxiv.org/abs/2510.19949)|**[link](https://github.com/ZJU-REAL/Awesome-GUI-Agents)**|
 |**2025-10-22**|**Semantic World Models**|Jacob Berg et.al.|[2510.19818](https://arxiv.org/abs/2510.19818)|**[link](https://github.com/leofan90/Awesome-World-Models)**|
-|**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Jake Poznanski et.al.|[2510.19817](https://arxiv.org/abs/2510.19817)|null|
+|**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Jake Poznanski et.al.|[2510.19817](https://arxiv.org/abs/2510.19817)|**[link](https://github.com/allenai/olmocr)**|
 |**2025-10-22**|**Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models**|Xiaozhen Qiao et.al.|[2510.19802](https://arxiv.org/abs/2510.19802)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
 |**2025-10-22**|**MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom**|Yifan Li et.al.|[2510.19626](https://arxiv.org/abs/2510.19626)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2025-10-22**|**XBench: A Comprehensive Benchmark for Visual-Language Explanations in Chest Radiography**|Haozhe Luo et.al.|[2510.19599](https://arxiv.org/abs/2510.19599)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2025-10-22**|**Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection**|Ariana Yi et.al.|[2510.19574](https://arxiv.org/abs/2510.19574)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
-|**2025-10-22**|**A Matter of Time: Revealing the Structure of Time in Vision-Language Models**|Nidham Tekaya et.al.|[2510.19559](https://arxiv.org/abs/2510.19559)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
-|**2025-10-22**|**[De|Re]constructing VLMs' Reasoning in Counting**|Simone Alghisi et.al.|[2510.19555](https://arxiv.org/abs/2510.19555)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2025-10-22**|**CARES: Context-Aware Resolution Selector for VLMs**|Moshe Kimhi et.al.|[2510.19496](https://arxiv.org/abs/2510.19496)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2025-10-22**|**Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection**|Ariana Yi et.al.|[2510.19574](https://arxiv.org/abs/2510.19574)|null|
+|**2025-10-22**|**A Matter of Time: Revealing the Structure of Time in Vision-Language Models**|Nidham Tekaya et.al.|[2510.19559](https://arxiv.org/abs/2510.19559)|null|
+|**2025-10-22**|**[De|Re]constructing VLMs' Reasoning in Counting**|Simone Alghisi et.al.|[2510.19555](https://arxiv.org/abs/2510.19555)|null|
+|**2025-10-22**|**CARES: Context-Aware Resolution Selector for VLMs**|Moshe Kimhi et.al.|[2510.19496](https://arxiv.org/abs/2510.19496)|null|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Zhiyuan Feng et.al.|[2510.19400](https://arxiv.org/abs/2510.19400)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2025-10-22**|**A Training-Free Framework for Open-Vocabulary Image Segmentation and Recognition with EfficientNet and CLIP**|Ying Dai et.al.|[2510.19333](https://arxiv.org/abs/2510.19333)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2025-10-22**|**Unified Reinforcement and Imitation Learning for Vision-Language Models**|Byung-Kwan Lee et.al.|[2510.19307](https://arxiv.org/abs/2510.19307)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2025-10-22**|**Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models**|Mingen Li et.al.|[2510.19268](https://arxiv.org/abs/2510.19268)|null|
-|**2025-10-22**|**Preliminary Use of Vision Language Model Driven Extraction of Mouse Behavior Towards Understanding Fear Expression**|Paimon Goulart et.al.|[2510.19160](https://arxiv.org/abs/2510.19160)|null|
+|**2025-10-22**|**Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models**|Mingen Li et.al.|[2510.19268](https://arxiv.org/abs/2510.19268)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2025-10-22**|**Preliminary Use of Vision Language Model Driven Extraction of Mouse Behavior Towards Understanding Fear Expression**|Paimon Goulart et.al.|[2510.19160](https://arxiv.org/abs/2510.19160)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2025-10-21**|**PoSh: Using Scene Graphs To Guide LLMs-as-a-Judge For Detailed Image Descriptions**|Amith Ananthram et.al.|[2510.19060](https://arxiv.org/abs/2510.19060)|**[link](https://huggingface.co/datasets/amitha/docent)**|
-|**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](https://arxiv.org/abs/2510.19001)|null|
+|**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](https://arxiv.org/abs/2510.19001)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
 |**2025-10-21**|**DSI-Bench: A Benchmark for Dynamic Spatial Intelligence**|Ziang Zhang et.al.|[2510.18873](https://arxiv.org/abs/2510.18873)|**[link](https://huggingface.co/datasets/Viglong/DSI-Bench)**|
-|**2025-10-21**|**FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning**|Yubin Zheng et.al.|[2510.18837](https://arxiv.org/abs/2510.18837)|null|
+|**2025-10-21**|**FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning**|Yubin Zheng et.al.|[2510.18837](https://arxiv.org/abs/2510.18837)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2025-10-21**|**Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation**|Patterson Hsieh et.al.|[2510.18751](https://arxiv.org/abs/2510.18751)|**[link](https://github.com/chenin-wang/awesome_ai_paper)**|
 |**2025-10-21**|**Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents**|Yiqi Lin et.al.|[2510.18703](https://arxiv.org/abs/2510.18703)|**[link](https://github.com/chenin-wang/awesome_ai_paper)**|
 |**2025-10-21**|**Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views**|Zhangquan Chen et.al.|[2510.18632](https://arxiv.org/abs/2510.18632)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
@@ -1336,7 +1336,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-23**|**HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives**|Yihao Meng et.al.|[2510.20822](https://arxiv.org/abs/2510.20822)|**[link](https://github.com/wangkai930418/awesome-diffusion-categorized)**|
-|**2025-10-23**|**ARGenSeg: Image Segmentation with Autoregressive Image Generation Model**|Xiaolong Wang et.al.|[2510.20803](https://arxiv.org/abs/2510.20803)|**[link](https://github.com/gabrielchua/daily-ai-papers)**|
+|**2025-10-23**|**ARGenSeg: Image Segmentation with Autoregressive Image Generation Model**|Xiaolong Wang et.al.|[2510.20803](https://arxiv.org/abs/2510.20803)|null|
 |**2025-10-23**|**Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples**|Shiva Sreeram et.al.|[2510.20800](https://arxiv.org/abs/2510.20800)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-23**|**A Use-Case Specific Dataset for Measuring Dimensions of Responsible Performance in LLM-generated Text**|Alicia Sagae et.al.|[2510.20782](https://arxiv.org/abs/2510.20782)|**[link](https://github.com/wonderNefelibata/Awesome-LRM-Safety)**|
 |**2025-10-23**|**Empathic Prompting: Non-Verbal Context Integration for Multimodal LLM Conversations**|Lorenzo Stacchio et.al.|[2510.20743](https://arxiv.org/abs/2510.20743)|**[link](https://github.com/chenin-wang/awesome_ai_paper)**|
@@ -1354,14 +1354,14 @@
 |**2025-10-23**|**ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases**|Ziqian Zhong et.al.|[2510.20270](https://arxiv.org/abs/2510.20270)|**[link](https://github.com/gabrielchua/daily-ai-papers)**|
 |**2025-10-23**|**COS3D: Collaborative Open-Vocabulary 3D Segmentation**|Runsong Zhu et.al.|[2510.20238](https://arxiv.org/abs/2510.20238)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
 |**2025-10-23**|**Beyond Text: Multimodal Jailbreaking of Vision-Language and Audio Models through Perceptually Simple Transformations**|Divyanshu Kumar et.al.|[2510.20223](https://arxiv.org/abs/2510.20223)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
-|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](https://arxiv.org/abs/2510.20217)|null|
-|**2025-10-23**|**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing**|Yanghao Wang et.al.|[2510.20212](https://arxiv.org/abs/2510.20212)|null|
+|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](https://arxiv.org/abs/2510.20217)|**[link](https://github.com/wangkai930418/awesome-diffusion-categorized)**|
+|**2025-10-23**|**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing**|Yanghao Wang et.al.|[2510.20212](https://arxiv.org/abs/2510.20212)|**[link](https://github.com/wangkai930418/awesome-diffusion-categorized)**|
 |**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](https://arxiv.org/abs/2510.20206)|null|
-|**2025-10-23**|**Merge and Conquer: Evolutionarily Optimizing AI for 2048**|Maggie Bai et.al.|[2510.20205](https://arxiv.org/abs/2510.20205)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-10-23**|**Merge and Conquer: Evolutionarily Optimizing AI for 2048**|Maggie Bai et.al.|[2510.20205](https://arxiv.org/abs/2510.20205)|null|
 |**2025-10-23**|**The Lock-In Phase Hypothesis: Identity Consolidation as a Precursor to AGI**|Marcelo Maciel Amaral et.al.|[2510.20190](https://arxiv.org/abs/2510.20190)|**[link](https://huggingface.co/models/GaugeFreedom/persona-phase-transition)**|
 |**2025-10-23**|**Every Question Has Its Own Value: Reinforcement Learning with Explicit Human Values**|Dian Yu et.al.|[2510.20187](https://arxiv.org/abs/2510.20187)|**[link](https://huggingface.co/datasets/sarosavo/RLEV)**|
-|**2025-10-23**|**Evaluating Video Models as Simulators of Multi-Person Pedestrian Trajectories**|Aaron Appelle et.al.|[2510.20182](https://arxiv.org/abs/2510.20182)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-10-23**|**BoundRL: Efficient Structured Text Segmentation through Reinforced Boundary Generation**|Haoyuan Li et.al.|[2510.20151](https://arxiv.org/abs/2510.20151)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-10-23**|**Evaluating Video Models as Simulators of Multi-Person Pedestrian Trajectories**|Aaron Appelle et.al.|[2510.20182](https://arxiv.org/abs/2510.20182)|null|
+|**2025-10-23**|**BoundRL: Efficient Structured Text Segmentation through Reinforced Boundary Generation**|Haoyuan Li et.al.|[2510.20151](https://arxiv.org/abs/2510.20151)|null|
 |**2025-10-23**|**Leveraging the Power of Large Language Models in Entity Linking via Adaptive Routing and Targeted Reasoning**|Yajie Li et.al.|[2510.20098](https://arxiv.org/abs/2510.20098)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-23**|**StableSketcher: Enhancing Diffusion Model for Pixel-based Sketch Generation via Visual Question Answering Feedback**|Jiho Park et.al.|[2510.20093](https://arxiv.org/abs/2510.20093)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-22**|**Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training**|Mehrdad Ghassabi et.al.|[2510.20059](https://arxiv.org/abs/2510.20059)|**[link](https://huggingface.co/models/gaokerena/gaokerena-r1.0)**|
@@ -2838,25 +2838,25 @@
 |**2025-10-23**|**Towards the Formalization of a Trustworthy AI for Mining Interpretable Models explOiting Sophisticated Algorithms**|Riccardo Guidotti et.al.|[2510.20621](https://arxiv.org/abs/2510.20621)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-23**|**The Dog the Cat Chased Stumped the Model: Measuring When Language Models Abandon Structure for Shortcuts**|Sangmitra Madhusudan et.al.|[2510.20543](https://arxiv.org/abs/2510.20543)|**[link](https://huggingface.co/datasets/Sangmitra-06/CENTERBENCH)**|
 |**2025-10-23**|**SCMD: A Kernel-Based Distance for Structural Causal Models to Quantify Transferability Across Environments**|Théotime Le Goff et.al.|[2510.20481](https://arxiv.org/abs/2510.20481)|null|
-|**2025-10-23**|**On Multiple Robustness of Proximal Dynamic Treatment Regimes**|Yuanshan Gao et.al.|[2510.20451](https://arxiv.org/abs/2510.20451)|null|
-|**2025-10-23**|**Identification and Debiased Learning of Causal Effects with General Instrumental Variables**|Shuyuan Chen et.al.|[2510.20404](https://arxiv.org/abs/2510.20404)|**[link](https://github.com/HowToNameMe/paper-daily)**|
+|**2025-10-23**|**On Multiple Robustness of Proximal Dynamic Treatment Regimes**|Yuanshan Gao et.al.|[2510.20451](https://arxiv.org/abs/2510.20451)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-10-23**|**Identification and Debiased Learning of Causal Effects with General Instrumental Variables**|Shuyuan Chen et.al.|[2510.20404](https://arxiv.org/abs/2510.20404)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-10-23**|**FinCARE: Financial Causal Analysis with Reasoning and Evidence**|Alejandro Michel et.al.|[2510.20221](https://arxiv.org/abs/2510.20221)|**[link](https://github.com/HowToNameMe/paper-daily)**|
-|**2025-10-23**|**Bias-Variance Tradeoff of Matching Prior to Difference-in-Differences When Parallel Trends is Violated**|Mingxuan Ge et.al.|[2510.20191](https://arxiv.org/abs/2510.20191)|null|
+|**2025-10-23**|**Bias-Variance Tradeoff of Matching Prior to Difference-in-Differences When Parallel Trends is Violated**|Mingxuan Ge et.al.|[2510.20191](https://arxiv.org/abs/2510.20191)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-10-23**|**Competition is the key: A Game Theoretic Causal Discovery Approach**|Amartya Roy et.al.|[2510.20106](https://arxiv.org/abs/2510.20106)|**[link](https://github.com/Ponkux/DailyArXiv-cp)**|
-|**2025-10-22**|**A New Targeted-Federated Learning Framework for Estimating Heterogeneity of Treatment Effects: A Robust Framework with Applications in Aging Cohorts**|Rong Zhao et.al.|[2510.19243](https://arxiv.org/abs/2510.19243)|null|
-|**2025-10-22**|**No Intelligence Without Statistics: The Invisible Backbone of Artificial Intelligence**|Ernest Fokoué et.al.|[2510.19212](https://arxiv.org/abs/2510.19212)|null|
-|**2025-10-21**|**A Hybrid Enumeration Framework for Optimal Counterfactual Generation in Post-Acute COVID-19 Heart Failure**|Jingya Cheng et.al.|[2510.18841](https://arxiv.org/abs/2510.18841)|null|
+|**2025-10-22**|**A New Targeted-Federated Learning Framework for Estimating Heterogeneity of Treatment Effects: A Robust Framework with Applications in Aging Cohorts**|Rong Zhao et.al.|[2510.19243](https://arxiv.org/abs/2510.19243)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-10-22**|**No Intelligence Without Statistics: The Invisible Backbone of Artificial Intelligence**|Ernest Fokoué et.al.|[2510.19212](https://arxiv.org/abs/2510.19212)|**[link](https://github.com/zezhishao/DailyArXiv)**|
+|**2025-10-21**|**A Hybrid Enumeration Framework for Optimal Counterfactual Generation in Post-Acute COVID-19 Heart Failure**|Jingya Cheng et.al.|[2510.18841](https://arxiv.org/abs/2510.18841)|**[link](https://github.com/HowToNameMe/paper-daily)**|
 |**2025-10-21**|**Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference**|Harry Amad et.al.|[2510.18768](https://arxiv.org/abs/2510.18768)|null|
-|**2025-10-21**|**Causally Perturbed Fairness Testing**|Chengwen Du et.al.|[2510.18719](https://arxiv.org/abs/2510.18719)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
-|**2025-10-21**|**A Multi-Evidence Framework Rescues Low-Power Prognostic Signals and Rejects Statistical Artifacts in Cancer Genomics**|Gokturk Aytug Akarlar et.al.|[2510.18571](https://arxiv.org/abs/2510.18571)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-10-21**|**Causally Perturbed Fairness Testing**|Chengwen Du et.al.|[2510.18719](https://arxiv.org/abs/2510.18719)|null|
+|**2025-10-21**|**A Multi-Evidence Framework Rescues Low-Power Prognostic Signals and Rejects Statistical Artifacts in Cancer Genomics**|Gokturk Aytug Akarlar et.al.|[2510.18571](https://arxiv.org/abs/2510.18571)|null|
 |**2025-10-21**|**Counterfactual Reasoning for Steerable Pluralistic Value Alignment of Large Language Models**|Hanze Guo et.al.|[2510.18526](https://arxiv.org/abs/2510.18526)|null|
 |**2025-10-21**|**A Distributed Framework for Causal Modeling of Performance Variability in GPU Traces**|Ankur Lahiry et.al.|[2510.18300](https://arxiv.org/abs/2510.18300)|null|
 |**2025-10-21**|**Online Time Series Forecasting with Theoretical Guarantees**|Zijian Li et.al.|[2510.18281](https://arxiv.org/abs/2510.18281)|**[link](https://github.com/zezhishao/DailyArXiv)**|
-|**2025-10-20**|**Intuitionistic $j$ -Do-Calculus in Topos Causal Models**|Sridhar Mahadevan et.al.|[2510.17944](https://arxiv.org/abs/2510.17944)|null|
+|**2025-10-20**|**Intuitionistic $j$ -Do-Calculus in Topos Causal Models**|Sridhar Mahadevan et.al.|[2510.17944](https://arxiv.org/abs/2510.17944)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-10-22**|**A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning**|Anjie Liu et.al.|[2510.17697](https://arxiv.org/abs/2510.17697)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-20**|**CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference**|Sangyoon Bae et.al.|[2510.17318](https://arxiv.org/abs/2510.17318)|**[link](https://github.com/randomrisk/NeuroAI-Daily-Arxiv)**|
 |**2025-10-21**|**LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding**|ZhaoYang Han et.al.|[2510.17305](https://arxiv.org/abs/2510.17305)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
-|**2025-10-21**|**Diverse Influence Component Analysis: A Geometric Approach to Nonlinear Mixture Identifiability**|Hoang-Son Nguyen et.al.|[2510.17040](https://arxiv.org/abs/2510.17040)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-10-21**|**Diverse Influence Component Analysis: A Geometric Approach to Nonlinear Mixture Identifiability**|Hoang-Son Nguyen et.al.|[2510.17040](https://arxiv.org/abs/2510.17040)|null|
 |**2025-10-19**|**Causal Variance Decompositions for Measuring Health Inequalities**|Lin Yu et.al.|[2510.16975](https://arxiv.org/abs/2510.16975)|null|
 |**2025-10-19**|**Causal inference for calibrated scaling interventions on time-to-event processes**|Helene Charlotte Wiese Rytgaard et.al.|[2510.16798](https://arxiv.org/abs/2510.16798)|null|
 |**2025-10-19**|**Local Overidentification and Efficiency Gains in Modern Causal Inference and Data Combination**|Xiaohong Chen et.al.|[2510.16683](https://arxiv.org/abs/2510.16683)|null|
