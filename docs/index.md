@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.11
+## Updated on 2025.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA & DG
@@ -293,7 +293,7 @@ layout: default
 |**2025-09-23**|**What Makes You Unique? Attribute Prompt Composition for Object Re-Identification**|Yingquan Wang et.al.|[2509.18715](https://arxiv.org/abs/2509.18715)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-09-24**|**Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training**|Shuo Cheng et.al.|[2509.18631](https://arxiv.org/abs/2509.18631)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-09-23**|**Source-Free Domain Adaptive Semantic Segmentation of Remote Sensing Images with Diffusion-Guided Label Enrichment**|Wenjie Liu et.al.|[2509.18502](https://arxiv.org/abs/2509.18502)|null|
-|**2025-09-22**|**SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI**|Yuanhan Wang et.al.|[2509.17925](https://arxiv.org/abs/2509.17925)|null|
+|**2025-09-23**|**SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI**|Yuanhan Wang et.al.|[2509.17925](https://arxiv.org/abs/2509.17925)|**[link](https://github.com/lijingning193-blip/ICML_123)**|
 |**2025-09-22**|**Domain Adaptive Object Detection for Space Applications with Real-Time Constraints**|Samet Hicsonmez et.al.|[2509.17593](https://arxiv.org/abs/2509.17593)|null|
 |**2025-09-22**|**An Empirical Study on the Robustness of YOLO Models for Underwater Object Detection**|Edwine Nabahirwa et.al.|[2509.17561](https://arxiv.org/abs/2509.17561)|null|
 |**2025-09-22**|**Training-Free Label Space Alignment for Universal Domain Adaptation**|Dujin Lee et.al.|[2509.17452](https://arxiv.org/abs/2509.17452)|null|
@@ -538,6 +538,35 @@ layout: default
 |**2025-08-05**|**CORE-ReID: Comprehensive Optimization and Refinement through Ensemble fusion in Domain Adaptation for person re-identification**|Trinh Quoc Nguyen et.al.|[2508.03064](https://arxiv.org/abs/2508.03064)|null|
 |**2025-08-05**|**Multi-Granularity Feature Calibration via VFM for Domain Generalized Semantic Segmentation**|Xinhui Li et.al.|[2508.03007](https://arxiv.org/abs/2508.03007)|null|
 |**2025-08-05**|**MoExDA: Domain Adaptation for Edge-based Action Recognition**|Takuya Sugimoto et.al.|[2508.02981](https://arxiv.org/abs/2508.02981)|null|
+|**2025-06-04**|**TestDG: Test-time Domain Generalization for Continual Test-time Adaptation**|Sohyun Lee et.al.|[2504.04981](https://arxiv.org/abs/2504.04981)|null|
+|**2024-12-18**|**Personalized Sleep Staging Leveraging Source-free Unsupervised Domain Adaptation**|Yangxuan Zhou et.al.|[2412.12159](https://arxiv.org/abs/2412.12159)|null|
+|**2024-12-24**|**DRIVE: Dual-Robustness via Information Variability and Entropic Consistency in Source-Free Unsupervised Domain Adaptation**|Ruiqiang Xiao et.al.|[2411.15976](https://arxiv.org/abs/2411.15976)|null|
+|**2024-11-26**|**Unveiling the Superior Paradigm: A Comparative Study of Source-Free Domain Adaptation and Unsupervised Domain Adaptation**|Fan Wang et.al.|[2411.15844](https://arxiv.org/abs/2411.15844)|**[link](https://github.com/cosword/meta-paper-daily)**|
+|**2024-09-30**|**DRL-STNet: Unsupervised Domain Adaptation for Cross-modality Medical Image Segmentation via Disentangled Representation Learning**|Hui Lin et.al.|[2409.18340](https://arxiv.org/abs/2409.18340)|**[link](https://github.com/hwenjun18/arxiv-daily)**|
+|**2024-12-17**|**Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment**|Jiayi Guo et.al.|[2406.04295](https://arxiv.org/abs/2406.04295)|**[link](https://github.com/52CV/CVPR-2025-Papers)**|
+|**2025-04-17**|**Proxy Denoising for Source-Free Domain Adaptation**|Song Tang et.al.|[2406.01658](https://arxiv.org/abs/2406.01658)|**[link](https://github.com/yinizhilian/ICLR2025-Papers-with-Code)**|
+|**2024-05-28**|**Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation**|Hongye Zeng et.al.|[2405.16102](https://arxiv.org/abs/2405.16102)|**[link](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging)**|
+|**2023-12-05**|**Improving Source-Free Target Adaptation with Vision Transformers Leveraging Domain Representation Images**|Gauransh Sawhney et.al.|[2311.12589](https://arxiv.org/abs/2311.12589)|null|
+|**2024-02-13**|**Robust Core-Periphery Constrained Transformer for Domain Adaptation**|Xiaowei Yu et.al.|[2308.13515](https://arxiv.org/abs/2308.13515)|**[link](https://github.com/Shawey94/WACV2025-FFTAT)**|
+|**2023-07-25**|**EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge: Mixed Sequences Prediction**|Amirshayan Nasirimajd et.al.|[2307.12837](https://arxiv.org/abs/2307.12837)|null|
+|**2023-03-31**|**C-SFDA: A Curriculum Learning Aided Self-Training Framework for Efficient Source Free Domain Adaptation**|Nazmul Karim et.al.|[2303.17132](https://arxiv.org/abs/2303.17132)|null|
+|**2024-12-13**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yin et.al.|[2212.09563](https://arxiv.org/abs/2212.09563)|**[link](https://github.com/maxwellyin/MDAQA)**|
+|**2022-10-17**|**Polycentric Clustering and Structural Regularization for Source-free Unsupervised Domain Adaptation**|Xinyu Guan et.al.|[2210.07463](https://arxiv.org/abs/2210.07463)|null|
+|**2022-09-13**|**PoliTO-IIT-CINI Submission to the EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition**|Mirco Planamente et.al.|[2209.04525](https://arxiv.org/abs/2209.04525)|null|
+|**2022-09-07**|**Source-Free Unsupervised Domain Adaptation with Norm and Shape Constraints for Medical Image Segmentation**|Satoshi Kondo et.al.|[2209.01300](https://arxiv.org/abs/2209.01300)|**[link](https://github.com/BioMedIA-repo/DA4MIS)**|
+|**2023-01-12**|**OneRing: A Simple Method for Source-free Open-partial Domain Adaptation**|Shiqi Yang et.al.|[2206.03600](https://arxiv.org/abs/2206.03600)|**[link](https://github.com/Albert0147/OneRing_SF-OPDA)**|
+|**2022-10-05**|**Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation**|Shiqi Yang et.al.|[2205.04183](https://arxiv.org/abs/2205.04183)|**[link](https://github.com/YuejiangLIU/awesome-source-free-test-time-adaptation)**|
+|**2022-04-08**|**Jacobian Norm for Unsupervised Source-Free Domain Adaptation**|Weikai Li et.al.|[2204.03467](https://arxiv.org/abs/2204.03467)|**[link](https://github.com/priyanshujiiii/awesome-TTA)**|
+|**2023-03-22**|**Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**|Vibashan VS et.al.|[2203.15793](https://arxiv.org/abs/2203.15793)|**[link](https://github.com/zhaoxin94/awesome-domain-adaptation)**|
+|**2021-12-07**|**Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey**|Gabriela Csurka et.al.|[2112.03241](https://arxiv.org/abs/2112.03241)|**[link](https://github.com/autodriving-heart/Awesome-Autonomous-Driving)**|
+|**2022-05-31**|**Source-free unsupervised domain adaptation for cross-modality abdominal multi-organ segmentation**|Jin Hong et.al.|[2111.12221](https://arxiv.org/abs/2111.12221)|**[link](https://github.com/Captain-Hong/SFUDA_AOS)**|
+|**2021-09-10**|**Generation, augmentation, and alignment: A pseudo-source domain based method for source-free domain adaptation**|Yuntao Du et.al.|[2109.04015](https://arxiv.org/abs/2109.04015)|null|
+|**2022-05-13**|**Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation**|Jogendra Nath Kundu et.al.|[2108.11249](https://arxiv.org/abs/2108.11249)|**[link](https://github.com/zhaoxin94/awesome-domain-adaptation)**|
+|**2021-07-02**|**PoliTO-IIT Submission to the EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition**|Chiara Plizzari et.al.|[2107.00337](https://arxiv.org/abs/2107.00337)|null|
+|**2021-06-30**|**Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation**|Zhen Qiu et.al.|[2106.15326](https://arxiv.org/abs/2106.15326)|**[link](https://github.com/zhaoxin94/awesome-domain-adaptation)**|
+|**2021-06-04**|**Generalized Domain Adaptation**|Yu Mitsuzumi et.al.|[2106.01656](https://arxiv.org/abs/2106.01656)|**[link](https://github.com/zhaoxin94/awesome-domain-adaptation)**|
+|**2021-04-22**|**Towards Corruption-Agnostic Robust Domain Adaptation**|Yifan Xu et.al.|[2104.10376](https://arxiv.org/abs/2104.10376)|**[link](https://github.com/tao-bai/attack-and-defense-methods)**|
+|**2019-09-09**|**Multi-layer Domain Adaptation for Deep Convolutional Networks**|Ozan Ciga et.al.|[1909.02620](https://arxiv.org/abs/1909.02620)|null|
 
 ## VLM
 
@@ -1407,7 +1436,7 @@ layout: default
 |**2025-08-26**|**Fine-Tuning Vision-Language Models for Neutrino Event Analysis in High-Energy Physics Experiments**|Dikshant Sagar et.al.|[2508.19376](https://arxiv.org/abs/2508.19376)|null|
 |**2025-08-26**|**AT-CXR: Uncertainty-Aware Agentic Triage for Chest X-rays**|Xueyang Li et.al.|[2508.19322](https://arxiv.org/abs/2508.19322)|null|
 |**2025-08-25**|**DemoBias: An Empirical Study to Trace Demographic Biases in Vision Foundation Models**|Abu Sufian et.al.|[2508.19298](https://arxiv.org/abs/2508.19298)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-08-25**|**Object Detection with Multimodal Large Vision-Language Models: An In-depth Review**|Ranjan Sapkota et.al.|[2508.19294](https://arxiv.org/abs/2508.19294)|null|
+|**2025-10-01**|**Object Detection with Multimodal Large Vision-Language Models: An In-depth Review**|Ranjan Sapkota et.al.|[2508.19294](https://arxiv.org/abs/2508.19294)|**[link](https://github.com/52CV/CV-Surveys)**|
 |**2025-08-26**|**Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception in LVLMs**|Zhikai Ding et.al.|[2508.19111](https://arxiv.org/abs/2508.19111)|null|
 |**2025-08-26**|**ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval**|Yi Pan et.al.|[2508.19024](https://arxiv.org/abs/2508.19024)|null|
 |**2025-08-26**|**Ask Me Again Differently: GRAS for Measuring Bias in Vision Language Models on Gender, Race, Age, and Skin Tone**|Shaivi Malik et.al.|[2508.18989](https://arxiv.org/abs/2508.18989)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
@@ -1609,6 +1638,35 @@ layout: default
 |**2025-08-08**|**AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance**|Weichen Zhang et.al.|[2508.06084](https://arxiv.org/abs/2508.06084)|**[link](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)**|
 |**2025-08-11**|**Fourier-VLM: Compressing Vision Tokens in the Frequency Domain for Large Vision-Language Models**|Huanyu Wang et.al.|[2508.06038](https://arxiv.org/abs/2508.06038)|**[link](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)**|
 |**2025-08-08**|**More Is Better: A MoE-Based Emotion Recognition Framework with Human Preference Alignment**|Jun Xie et.al.|[2508.06036](https://arxiv.org/abs/2508.06036)|**[link](https://github.com/zhuyjan/MER2025-MRAC25)**|
+|**2025-08-14**|**On the Reliability of Vision-Language Models Under Adversarial Frequency-Domain Perturbations**|Jordan Vice et.al.|[2507.22398](https://arxiv.org/abs/2507.22398)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
+|**2025-07-14**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](https://arxiv.org/abs/2507.07104)|**[link](https://huggingface.co/datasets/ccvl/LAION-High-Qualtiy-Pro-6M-VLV)**|
+|**2025-07-30**|**GLIMPSE: Holistic Cross-Modal Explainability for Large Vision-Language Models**|Guanxi Shen et.al.|[2506.18985](https://arxiv.org/abs/2506.18985)|null|
+|**2025-06-16**|**EasyARC: Evaluating Vision Language Models on True Visual Reasoning**|Mert Unsal et.al.|[2506.11595](https://arxiv.org/abs/2506.11595)|**[link](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)**|
+|**2025-10-13**|**CausalVLBench: Benchmarking Visual Causal Reasoning in Large Vision-Language Models**|Aneesh Komanduri et.al.|[2506.11034](https://arxiv.org/abs/2506.11034)|null|
+|**2025-06-09**|**Coordinated Robustness Evaluation Framework for Vision-Language Models**|Ashwin Ramesh Babu et.al.|[2506.05429](https://arxiv.org/abs/2506.05429)|null|
+|**2025-07-01**|**Towards Vision-Language-Garment Models for Web Knowledge Garment Understanding and Generation**|Jan Ackermann et.al.|[2506.05210](https://arxiv.org/abs/2506.05210)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
+|**2025-06-30**|**Benchmarking Vision Language Models on German Factual Data**|René Peinl et.al.|[2504.11108](https://arxiv.org/abs/2504.11108)|null|
+|**2025-04-15**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](https://arxiv.org/abs/2504.09480)|null|
+|**2025-03-25**|**Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning**|Yufei Zhan et.al.|[2503.18013](https://arxiv.org/abs/2503.18013)|**[link](https://huggingface.co/models/JefferyZhan/Qwen2.5-VL-7B-Instruct-Vision-R1)**|
+|**2024-12-11**|**Retaining and Enhancing Pre-trained Knowledge in Vision-Language Models with Prompt Ensembling**|Donggeun Kim et.al.|[2412.07077](https://arxiv.org/abs/2412.07077)|**[link](https://github.com/52CV/WACV-2025-Papers)**|
+|**2024-12-02**|**VARCO-VISION: Expanding Frontiers in Korean Vision-Language Models**|Jeongho Ju et.al.|[2411.19103](https://arxiv.org/abs/2411.19103)|**[link](https://huggingface.co/spaces/openfree/Korean-Leaderboard-backup1)**|
+|**2025-05-19**|**Evaluating Vision-Language Models as Evaluators in Path Planning**|Mohamed Aghzal et.al.|[2411.18711](https://arxiv.org/abs/2411.18711)|**[link](https://huggingface.co/datasets/maghzal/PathEval)**|
+|**2024-11-26**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|Manuel Schwonberg et.al.|[2411.16407](https://arxiv.org/abs/2411.16407)|**[link](https://github.com/ZhuYingJessica/cv-daily)**|
+|**2025-10-17**|**VoxelPrompt: A Vision Agent for End-to-End Medical Image Analysis**|Andrew Hoopes et.al.|[2410.08397](https://arxiv.org/abs/2410.08397)|**[link](https://github.com/dalcalab/voxel)**|
+|**2025-03-11**|**ScVLM: Enhancing Vision-Language Model for Safety-Critical Event Understanding**|Liang Shi et.al.|[2410.00982](https://arxiv.org/abs/2410.00982)|**[link](https://github.com/TUM-AVS/FM-AD-Survey)**|
+|**2024-09-24**|**Behavioral Bias of Vision-Language Models: A Behavioral Finance View**|Yuhang Xiao et.al.|[2409.15256](https://arxiv.org/abs/2409.15256)|null|
+|**2024-08-01**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](https://arxiv.org/abs/2407.21788)|null|
+|**2024-08-21**|**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**|Chuanhao Li et.al.|[2405.14554](https://arxiv.org/abs/2405.14554)|null|
+|**2025-10-15**|**Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions**|Akash Ghosh et.al.|[2404.07214](https://arxiv.org/abs/2404.07214)|null|
+|**2024-05-10**|**Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving**|Akshay Gopalkrishnan et.al.|[2403.19838](https://arxiv.org/abs/2403.19838)|null|
+|**2024-01-30**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](https://arxiv.org/abs/2401.16420)|**[link](https://huggingface.co/spaces/jarnot/EasyAnimate)**|
+|**2024-01-17**|**Evaluation and Enhancement of Semantic Grounding in Large Vision-Language Models**|Jiaying Lu et.al.|[2309.04041](https://arxiv.org/abs/2309.04041)|**[link](https://github.com/lorraine021/Awesome-MLLM-Hallucination)**|
+|**2023-10-13**|**Distilling Large Vision-Language Model with Out-of-Distribution Generalizability**|Xuanlin Li et.al.|[2307.03135](https://arxiv.org/abs/2307.03135)|**[link](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection)**|
+|**2023-06-16**|**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models**|Peng Xu et.al.|[2306.09265](https://arxiv.org/abs/2306.09265)|**[link](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**|
+|**2023-10-03**|**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**|Deyao Zhu et.al.|[2304.10592](https://arxiv.org/abs/2304.10592)|**[link](https://huggingface.co/spaces/tayhan/minigpt-final)**|
+|**2023-11-08**|**Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection**|Kyle Buettner et.al.|[2303.10093](https://arxiv.org/abs/2303.10093)|**[link](https://github.com/52CV/WACV-2024-Papers)**|
+|**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061](https://arxiv.org/abs/2202.09061)|null|
+|**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Kaiyang Zhou et.al.|[2109.01134](https://arxiv.org/abs/2109.01134)|**[link](https://huggingface.co/models/tongyujun/Subspace_Prompting)**|
 
 ## Prompt
 
@@ -1814,7 +1872,7 @@ layout: default
 |**2025-10-29**|**Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions**|Mohamad Abou Ali et.al.|[2510.25445](https://arxiv.org/abs/2510.25445)|null|
 |**2025-10-29**|**Implicature in Interaction: Understanding Implicature Improves Alignment in Human-LLM Interaction**|Asutosh Hota et.al.|[2510.25426](https://arxiv.org/abs/2510.25426)|null|
 |**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](https://arxiv.org/abs/2510.25412)|null|
-|**2025-10-29**|**Prompt Estimation from Prototypes for Federated Prompt Tuning of Vision Transformers**|M Yashwanth et.al.|[2510.25372](https://arxiv.org/abs/2510.25372)|null|
+|**2025-10-30**|**Prompt Estimation from Prototypes for Federated Prompt Tuning of Vision Transformers**|M Yashwanth et.al.|[2510.25372](https://arxiv.org/abs/2510.25372)|**[link](https://github.com/songfish/cv-arxiv-daily)**|
 |**2025-10-29**|**Parameter Averaging in Link Prediction**|Rupesh Sapkota et.al.|[2510.25361](https://arxiv.org/abs/2510.25361)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-29**|**CRMWeaver: Building Powerful Business Agent via Agentic RL and Shared Memories**|Yilong Lai et.al.|[2510.25333](https://arxiv.org/abs/2510.25333)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-10-29**|**Analytical Model of Prompt Gamma Timing for Spatiotemporal Emission Reconstruction in Particle Therapy**|Julius Werner et.al.|[2510.25328](https://arxiv.org/abs/2510.25328)|null|
@@ -3413,6 +3471,35 @@ layout: default
 |**2025-08-11**|**Doping $S=1$ antiferromagnet in one-dimension**|J. Prokopczyk et.al.|[2508.07712](https://arxiv.org/abs/2508.07712)|null|
 |**2025-08-11**|**AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting**|Hyobin Park et.al.|[2508.07668](https://arxiv.org/abs/2508.07668)|**[link](https://github.com/zezhishao/DailyArXiv)**|
 |**2025-08-11**|**Towards Multimodal Sentiment Analysis via Contrastive Cross-modal Retrieval Augmentation and Hierachical Prompts**|Xianbing Zhao et.al.|[2508.07666](https://arxiv.org/abs/2508.07666)|null|
+|**2025-09-25**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning**|Ganyu Wang et.al.|[2506.14929](https://arxiv.org/abs/2506.14929)|**[link](https://github.com/linxid/ai-paper-daily)**|
+|**2025-09-12**|**MM-Prompt: Cross-Modal Prompt Tuning for Continual Visual Question Answering**|Xu Li et.al.|[2505.19455](https://arxiv.org/abs/2505.19455)|**[link](https://github.com/xli04/CVQA)**|
+|**2024-09-17**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](https://arxiv.org/abs/2409.10403)|null|
+|**2025-02-27**|**Local-Prompt: Extensible Local Prompts for Few-Shot Out-of-Distribution Detection**|Fanhu Zeng et.al.|[2409.04796](https://arxiv.org/abs/2409.04796)|**[link](https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection)**|
+|**2025-01-20**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195](https://arxiv.org/abs/2408.03195)|**[link](https://github.com/samkhur006/awesome-llm-planning-reasoning)**|
+|**2024-07-23**|**Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL**|Yunseon Choi et.al.|[2407.14733](https://arxiv.org/abs/2407.14733)|**[link](https://github.com/Youseob/PIN)**|
+|**2024-10-29**|**Visual Prompt Tuning in Null Space for Continual Learning**|Yue Lu et.al.|[2406.05658](https://arxiv.org/abs/2406.05658)|**[link](https://github.com/xialeiliu/Awesome-Incremental-Learning)**|
+|**2024-12-12**|**Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion**|Pengxiang Lan et.al.|[2405.11464](https://arxiv.org/abs/2405.11464)|null|
+|**2025-02-10**|**ADAPT to Robustify Prompt Tuning Vision Transformers**|Masih Eskandar et.al.|[2403.13196](https://arxiv.org/abs/2403.13196)|null|
+|**2024-05-28**|**Revisiting the Power of Prompt for Visual Tuning**|Yuzhu Wang et.al.|[2402.02382](https://arxiv.org/abs/2402.02382)|**[link](https://github.com/yeerwen/Awesome-Medical-Efficient-Fine-Tuning)**|
+|**2024-03-13**|**Understanding the Multi-modal Prompts of the Pre-trained Vision-Language Model**|Shuailei Ma et.al.|[2312.11570](https://arxiv.org/abs/2312.11570)|null|
+|**2024-01-04**|**Regressor-Segmenter Mutual Prompt Learning for Crowd Counting**|Mingyue Guo et.al.|[2312.01711](https://arxiv.org/abs/2312.01711)|**[link](https://github.com/gjy3035/Awesome-Crowd-Counting)**|
+|**2023-11-01**|**Improving Prompt Tuning with Learned Prompting Layers**|Wei Zhu et.al.|[2310.20127](https://arxiv.org/abs/2310.20127)|null|
+|**2024-07-03**|**Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting**|Melanie Sclar et.al.|[2310.11324](https://arxiv.org/abs/2310.11324)|**[link](https://github.com/msclar/formatspread)**|
+|**2023-08-10**|**AutoHint: Automatic Prompt Optimization with Hint Generation**|Hong Sun et.al.|[2307.07415](https://arxiv.org/abs/2307.07415)|**[link](https://github.com/athina-ai/ai-research-papers)**|
+|**2023-06-16**|**POP: Prompt Of Prompts for Continual Learning**|Zhiyuan Hu et.al.|[2306.08200](https://arxiv.org/abs/2306.08200)|null|
+|**2023-06-09**|**Improving Visual Prompt Tuning for Self-supervised Vision Transformers**|Seungryong Yoo et.al.|[2306.05067](https://arxiv.org/abs/2306.05067)|**[link](https://github.com/ryongithub/GatedPromptTuning)**|
+|**2023-06-16**|**I'm Afraid I Can't Do That: Predicting Prompt Refusal in Black-Box Generative Language Models**|Max Reuter et.al.|[2306.03423](https://arxiv.org/abs/2306.03423)|**[link](https://huggingface.co/models/protectai/distilroberta-base-rejection-v1)**|
+|**2023-09-08**|**Layout and Task Aware Instruction Prompt for Zero-shot Document Image Question Answering**|Wenjin Wang et.al.|[2306.00526](https://arxiv.org/abs/2306.00526)|**[link](https://github.com/WenjinW/LATIN-Prompt)**|
+|**2023-05-09**|**Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization**|Anastasia Razdaibiedina et.al.|[2305.03937](https://arxiv.org/abs/2305.03937)|**[link](https://github.com/arazd/ResidualPrompts)**|
+|**2024-06-18**|**Black-box Prompt Tuning with Subspace Learning**|Yuanhang Zheng et.al.|[2305.03518](https://arxiv.org/abs/2305.03518)|**[link](https://github.com/BWLONG/Awesome-Prompt-Learning-CV)**|
+|**2023-11-14**|**Steering Prototypes with Prompt-tuning for Rehearsal-free Continual Learning**|Zhuowei Li et.al.|[2303.09447](https://arxiv.org/abs/2303.09447)|**[link](https://github.com/52CV/WACV-2024-Papers)**|
+|**2023-05-30**|**Dynamic Prompting: A Unified Framework for Prompt Tuning**|Xianjun Yang et.al.|[2303.02909](https://arxiv.org/abs/2303.02909)|**[link](https://github.com/ruthless-man/Awesome-Learn-from-Model)**|
+|**2023-06-02**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668](https://arxiv.org/abs/2302.03668)|**[link](https://huggingface.co/spaces/tomg-group-umd/pez-dispenser)**|
+|**2022-12-22**|**SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning**|M Saiful Bari et.al.|[2212.10929](https://arxiv.org/abs/2212.10929)|**[link](https://huggingface.co/spaces/awacke1/SFT-Tiny-Titans-Agentic-RAG-Party)**|
+|**2023-01-25**|**FedPrompt: Communication-Efficient and Privacy Preserving Prompt Tuning in Federated Learning**|Haodong Zhao et.al.|[2208.12268](https://arxiv.org/abs/2208.12268)|**[link](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)**|
+|**2022-10-25**|**RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning**|Mingkai Deng et.al.|[2205.12548](https://arxiv.org/abs/2205.12548)|**[link](https://github.com/thunlp/PromptPapers)**|
+|**2022-05-26**|**Structured Prompt Tuning**|Chi-Liang Liu et.al.|[2205.12309](https://arxiv.org/abs/2205.12309)|**[link](https://github.com/alexfanjn/Graph-Neural-Networks-With-Heterophily)**|
+|**2022-03-15**|**PPT: Pre-trained Prompt Tuning for Few-shot Learning**|Yuxian Gu et.al.|[2109.04332](https://arxiv.org/abs/2109.04332)|**[link](https://github.com/thunlp/PromptPapers)**|
 
 ## Causal Learning
 
@@ -3437,7 +3524,7 @@ layout: default
 |**2025-11-06**|**Causal Structure and Representation Learning with Biomedical Applications**|Caroline Uhler et.al.|[2511.04790](https://arxiv.org/abs/2511.04790)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-11-06**|**Dynamic causal discovery in Alzheimer's disease through latent pseudotime modelling**|Natalia Glazman et.al.|[2511.04619](https://arxiv.org/abs/2511.04619)|null|
 |**2025-11-06**|**Towards Causal Market Simulators**|Dennis Thumm et.al.|[2511.04469](https://arxiv.org/abs/2511.04469)|**[link](https://github.com/zezhishao/DailyArXiv)**|
-|**2025-11-06**|**Causal Regime Detection in Energy Markets With Augmented Time Series Structural Causal Models**|Dennis Thumm et.al.|[2511.04361](https://arxiv.org/abs/2511.04361)|**[link](https://github.com/zezhishao/DailyArXiv)**|
+|**2025-11-07**|**Causal Regime Detection in Energy Markets With Augmented Time Series Structural Causal Models**|Dennis Thumm et.al.|[2511.04361](https://arxiv.org/abs/2511.04361)|**[link](https://github.com/zezhishao/DailyArXiv)**|
 |**2025-11-05**|**Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering**|Julian Frattini et.al.|[2511.03875](https://arxiv.org/abs/2511.03875)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-11-05**|**Higher-Order Causal Structure Learning with Additive Models**|James Enouen et.al.|[2511.03831](https://arxiv.org/abs/2511.03831)|null|
 |**2025-11-05**|**Bayesian Causal Effect Estimation for Categorical Data using Staged Tree Models**|Andrea Cremaschi et.al.|[2511.03399](https://arxiv.org/abs/2511.03399)|null|
@@ -3816,4 +3903,33 @@ layout: default
 |**2025-08-04**|**Causality and Interpretability for Electrical Distribution System faults**|Karthik Peddi et.al.|[2508.02524](https://arxiv.org/abs/2508.02524)|null|
 |**2025-08-03**|**CITS: Nonparametric Statistical Causal Modeling for High-Resolution Neural Time Series**|Rahul Biswas et.al.|[2508.01920](https://arxiv.org/abs/2508.01920)|null|
 |**2025-08-03**|**Structure Maintained Representation Learning Neural Network for Causal Inference**|Yang Sun et.al.|[2508.01865](https://arxiv.org/abs/2508.01865)|null|
+|**2025-08-01**|**Incorporating structural uncertainty in causal decision making**|Maurits Kaptein et.al.|[2507.23495](https://arxiv.org/abs/2507.23495)|null|
+|**2025-07-30**|**A Tactical Behaviour Recognition Framework Based on Causal Multimodal Reasoning: A Study on Covert Audio-Video Analysis Combining GAN Structure Enhancement and Phonetic Accent Modelling**|Wei Meng et.al.|[2507.21100](https://arxiv.org/abs/2507.21100)|null|
+|**2025-05-01**|**Multi-Domain Causal Discovery in Bijective Causal Models**|Kasra Jalaldoust et.al.|[2504.21261](https://arxiv.org/abs/2504.21261)|null|
+|**2025-05-13**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901](https://arxiv.org/abs/2504.11901)|**[link](https://github.com/lcastri/PeopleFlow)**|
+|**2025-04-16**|**Can LLMs Leverage Observational Data? Towards Data-Driven Causal Discovery with LLMs**|Yuni Susanti et.al.|[2504.10936](https://arxiv.org/abs/2504.10936)|null|
+|**2025-05-16**|**Unitless Unrestricted Markov-Consistent SCM Generation: Better Benchmark Datasets for Causal Discovery**|Rebecca J. Herman et.al.|[2503.17037](https://arxiv.org/abs/2503.17037)|**[link](https://github.com/rebeccaherman1/UUMCdata)**|
+|**2024-10-29**|**Causal Order Discovery based on Monotonic SCMs**|Ali Izadi et.al.|[2410.19870](https://arxiv.org/abs/2410.19870)|null|
+|**2025-03-25**|**Score matching through the roof: linear, nonlinear, and latent variables causal discovery**|Francesco Montagna et.al.|[2407.18755](https://arxiv.org/abs/2407.18755)|**[link](https://github.com/amazon-science/causal-score-matching)**|
+|**2024-07-12**|**A Critical Review of Causal Reasoning Benchmarks for Large Language Models**|Linying Yang et.al.|[2407.08029](https://arxiv.org/abs/2407.08029)|**[link](https://github.com/zhijing-jin/CausalNLP_Papers)**|
+|**2024-03-18**|**Lifted Causal Inference in Relational Domains**|Malte Luttermann et.al.|[2403.10184](https://arxiv.org/abs/2403.10184)|null|
+|**2024-03-05**|**A Human-Centered Approach for Bootstrapping Causal Graph Creation**|Minh Q. Tram et.al.|[2403.01622](https://arxiv.org/abs/2403.01622)|null|
+|**2024-06-21**|**Dual Likelihood for Causal Inference under Structure Uncertainty**|David Strieder et.al.|[2402.08328](https://arxiv.org/abs/2402.08328)|null|
+|**2023-12-14**|**CausalVLR: A Toolbox and Benchmark for Visual-Linguistic Causal Reasoning**|Yang Liu et.al.|[2306.17462](https://arxiv.org/abs/2306.17462)|null|
+|**2024-07-02**|**Bootstrap aggregation and confidence measures to improve time series causal discovery**|Kevin Debeire et.al.|[2306.08946](https://arxiv.org/abs/2306.08946)|null|
+|**2023-04-07**|**Causal Discovery with Score Matching on Additive Models with Arbitrary Noise**|Francesco Montagna et.al.|[2304.03265](https://arxiv.org/abs/2304.03265)|**[link](https://github.com/WangLei-CQU/Functional-based-Causal-Discovery-Methods-Survey)**|
+|**2023-02-21**|**Enhancing Causal Discovery from Robot Sensor Data in Dynamic Scenarios**|Luca Castri et.al.|[2302.10135](https://arxiv.org/abs/2302.10135)|null|
+|**2024-03-07**|**Evaluating Temporal Observation-Based Causal Discovery Techniques Applied to Road Driver Behaviour**|Rhys Howard et.al.|[2302.00064](https://arxiv.org/abs/2302.00064)|**[link](https://github.com/cognitive-robots/temporal-cd-evaluation-paper-resources)**|
+|**2022-09-09**|**Causal discovery for time series with latent confounders**|Christian Reiser et.al.|[2209.03427](https://arxiv.org/abs/2209.03427)|**[link](https://github.com/jakobrunge/neurips2020)**|
+|**2023-08-22**|**Quantitative probing: Validating causal models using quantitative domain knowledge**|Daniel Grünbaum et.al.|[2209.03013](https://arxiv.org/abs/2209.03013)|null|
+|**2023-10-30**|**Causal Effect Identification in Uncertain Causal Networks**|Sina Akbari et.al.|[2208.04627](https://arxiv.org/abs/2208.04627)|**[link](https://github.com/SinaAkbarii/Causal-Effect-Identification-in-Uncertain-Causal-Networks)**|
+|**2022-07-12**|**Differentiable Causal Discovery Under Latent Interventions**|Gonçalo R. A. Faria et.al.|[2203.02336](https://arxiv.org/abs/2203.02336)|**[link](https://github.com/goncalorafaria/causaldiscovery-latent-interventions)**|
+|**2022-02-22**|**Diffusion Causal Models for Counterfactual Estimation**|Pedro Sanchez et.al.|[2202.10166](https://arxiv.org/abs/2202.10166)|**[link](https://github.com/diff-usion/Awesome-Diffusion-Models)**|
+|**2022-02-08**|**Causal Inference Using Tractable Circuits**|Adnan Darwiche et.al.|[2202.02891](https://arxiv.org/abs/2202.02891)|**[link](https://github.com/wangben88/causal-pc)**|
+|**2022-11-09**|**Causal Discovery in Linear Structural Causal Models with Deterministic Relations**|Yuqin Yang et.al.|[2111.00341](https://arxiv.org/abs/2111.00341)|**[link](https://github.com/Yuqin-Yang/Propagation-SCM)**|
+|**2021-10-22**|**fairadapt: Causal Reasoning for Fair Data Pre-processing**|Drago Plečko et.al.|[2110.10200](https://arxiv.org/abs/2110.10200)|**[link](https://github.com/freakonometrics/MAT998X)**|
+|**2020-11-05**|**Causal discovery of linear non-Gaussian acyclic models in the presence of latent confounders**|Takashi Nicholas Maeda et.al.|[2001.04197](https://arxiv.org/abs/2001.04197)|**[link](https://github.com/logangraham/arXausality)**|
+|**2022-07-20**|**A Unifying Causal Framework for Analyzing Dataset Shift-stable Learning Algorithms**|Adarsh Subbaswamy et.al.|[1905.11374](https://arxiv.org/abs/1905.11374)|null|
+|**2015-08-18**|**Lifted Representation of Relational Causal Models Revisited: Implications for Reasoning and Structure Learning**|Sanghack Lee et.al.|[1508.02103](https://arxiv.org/abs/1508.02103)|null|
+|**2017-10-18**|**Causal inference via algebraic geometry: feasibility tests for functional causal structures with two binary observed variables**|Ciarán M. Lee et.al.|[1506.03880](https://arxiv.org/abs/1506.03880)|null|
 
