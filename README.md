@@ -1,4 +1,4 @@
-## Updated on 2025.12.14
+## Updated on 2025.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,21 +20,21 @@
 |**2025-12-10**|**MedXAI: A Retrieval-Augmented and Self-Verifying Framework for Knowledge-Guided Medical Image Analysis**|Midhat Urooj et.al.|[2512.10098](https://arxiv.org/abs/2512.10098)|**[link](https://github.com/isLinXu/paper-list)**|
 |**2025-12-10**|**Stylized Meta-Album: Group-bias injection with style transfer to study robustness against distribution shifts**|Romain Mussard et.al.|[2512.09773](https://arxiv.org/abs/2512.09773)|**[link](https://github.com/isLinXu/paper-list)**|
 |**2025-12-10**|**The geometric Sen morphism is the unique lift of the Kodaira--Spencer morphism**|Sean Howe et.al.|[2512.09669](https://arxiv.org/abs/2512.09669)|null|
-|**2025-12-10**|**System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection**|Binglin Wu et.al.|[2512.09563](https://arxiv.org/abs/2512.09563)|**[link](https://github.com/CoderBak/DailyArXiv)**|
+|**2025-12-10**|**System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection**|Binglin Wu et.al.|[2512.09563](https://arxiv.org/abs/2512.09563)|null|
 |**2025-12-09**|**Knowledge-Guided Large Language Model for Automatic Pediatric Dental Record Understanding and Safe Antibiotic Recommendation**|Zihan Han et.al.|[2512.09127](https://arxiv.org/abs/2512.09127)|null|
 |**2025-12-09**|**LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception**|Simon de Moreau et.al.|[2512.08912](https://arxiv.org/abs/2512.08912)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2025-12-09**|**Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning**|Yi Zhang et.al.|[2512.08820](https://arxiv.org/abs/2512.08820)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2025-12-09**|**LapFM: A Laparoscopic Segmentation Foundation Model via Hierarchical Concept Evolving Pre-training**|Qing Xu et.al.|[2512.08439](https://arxiv.org/abs/2512.08439)|null|
+|**2025-12-09**|**Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning**|Yi Zhang et.al.|[2512.08820](https://arxiv.org/abs/2512.08820)|**[link](https://github.com/suruoxi/WorldModel-VLA-arxiv-daily)**|
+|**2025-12-09**|**LapFM: A Laparoscopic Segmentation Foundation Model via Hierarchical Concept Evolving Pre-training**|Qing Xu et.al.|[2512.08439](https://arxiv.org/abs/2512.08439)|**[link](https://github.com/liliu-avril/Awesome-Segment-Anything)**|
 |**2025-12-08**|**CAMO: Causality-Guided Adversarial Multimodal Domain Generalization for Crisis Classification**|Pingchuan Ma et.al.|[2512.08071](https://arxiv.org/abs/2512.08071)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-08**|**CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation**|Zhehao Dong et.al.|[2512.07917](https://arxiv.org/abs/2512.07917)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-12-08**|**HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs**|Sujoy Nath et.al.|[2512.07687](https://arxiv.org/abs/2512.07687)|**[link](https://github.com/C0mRD/HalluShift_Plus)**|
 |**2025-12-08**|**MIDG: Mixture of Invariant Experts with knowledge injection for Domain Generalization in Multimodal Sentiment Analysis**|Yangle Li et.al.|[2512.07430](https://arxiv.org/abs/2512.07430)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2025-12-08**|**Recent advancements in the tau reconstruction and identification techniques in CMS**|Andrea Cardini et.al.|[2512.07387](https://arxiv.org/abs/2512.07387)|null|
-|**2025-12-08**|**Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Mai Tsujimoto et.al.|[2512.07276](https://arxiv.org/abs/2512.07276)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2025-12-08**|**Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**|Mai Tsujimoto et.al.|[2512.07276](https://arxiv.org/abs/2512.07276)|null|
 |**2025-12-07**|**Balanced Learning for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2512.06886](https://arxiv.org/abs/2512.06886)|null|
 |**2025-12-07**|**Towards Robust Pseudo-Label Learning in Semantic Segmentation: An Encoding Perspective**|Wangkai Li et.al.|[2512.06870](https://arxiv.org/abs/2512.06870)|null|
-|**2025-12-07**|**RMAdapter: Reconstruction-based Multi-Modal Adapter for Vision-Language Models**|Xiang Lin et.al.|[2512.06811](https://arxiv.org/abs/2512.06811)|null|
-|**2025-12-07**|**FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation**|M Yashwanth et.al.|[2512.06738](https://arxiv.org/abs/2512.06738)|null|
+|**2025-12-07**|**RMAdapter: Reconstruction-based Multi-Modal Adapter for Vision-Language Models**|Xiang Lin et.al.|[2512.06811](https://arxiv.org/abs/2512.06811)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
+|**2025-12-07**|**FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation**|M Yashwanth et.al.|[2512.06738](https://arxiv.org/abs/2512.06738)|**[link](https://github.com/vcl-iisc/SCAl)**|
 |**2025-12-06**|**On The Role of K-Space Acquisition in MRI Reconstruction Domain-Generalization**|Mohammed Wattad et.al.|[2512.06530](https://arxiv.org/abs/2512.06530)|**[link](https://github.com/mohammedwttd/On-The-Role-of-K-Space-Acquisition-in-MRI-Reconstruction-Domain-Generalization)**|
 |**2025-12-06**|**Towards Stable Cross-Domain Depression Recognition under Missing Modalities**|Jiuyi Chen et.al.|[2512.06447](https://arxiv.org/abs/2512.06447)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
 |**2025-12-06**|**Back to Author Console Empowering GNNs for Domain Adaptation via Denoising Target Graph**|Haiyang Yu et.al.|[2512.06236](https://arxiv.org/abs/2512.06236)|**[link](https://github.com/zezhishao/DailyArXiv)**|
@@ -52,7 +52,7 @@
 |**2025-12-05**|**Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework**|Tasnimul Hassan et.al.|[2512.05863](https://arxiv.org/abs/2512.05863)|null|
 |**2025-12-05**|**Edit-aware RAW Reconstruction**|Abhijith Punnappurath et.al.|[2512.05859](https://arxiv.org/abs/2512.05859)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-05**|**Prompting Science Report 4: Playing Pretend: Expert Personas Don't Improve Factual Accuracy**|Savir Basil et.al.|[2512.05858](https://arxiv.org/abs/2512.05858)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-05**|**UG-FedDA: Uncertainty-Guided Federated Domain Adaptation for Multi-Center Alzheimer's Disease Detection**|Fubao Zhu et.al.|[2512.05814](https://arxiv.org/abs/2512.05814)|**[link](https://github.com/CYandYue/Auto-Get-Papers-pro)**|
+|**2025-12-05**|**UG-FedDA: Uncertainty-Guided Federated Domain Adaptation for Multi-Center Alzheimer's Disease Detection**|Fubao Zhu et.al.|[2512.05814](https://arxiv.org/abs/2512.05814)|null|
 |**2025-12-05**|**Mechanistic Interpretability of Antibody Language Models Using SAEs**|Rebonto Haque et.al.|[2512.05794](https://arxiv.org/abs/2512.05794)|**[link](https://github.com/Lionelsy/RSS)**|
 |**2025-12-05**|**Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision**|Lennart Maack et.al.|[2512.05740](https://arxiv.org/abs/2512.05740)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-05**|**Efficient Text Classification with Conformal In-Context Learning**|Ippokratis Pantelidis et.al.|[2512.05732](https://arxiv.org/abs/2512.05732)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
@@ -61,7 +61,7 @@
 |**2025-12-05**|**Retrieving Semantically Similar Decisions under Noisy Institutional Labels: Robust Comparison of Embedding Methods**|Tereza Novotna et.al.|[2512.05681](https://arxiv.org/abs/2512.05681)|null|
 |**2025-12-05**|**The Power of Network Pluralism: Multi-Perspective Modeling of Heterogeneous Legal Document Networks**|Titus Pünder et.al.|[2512.05679](https://arxiv.org/abs/2512.05679)|null|
 |**2025-12-05**|**Grounded Multilingual Medical Reasoning for Question Answering with Large Language Models**|Pietro Ferrazzi et.al.|[2512.05658](https://arxiv.org/abs/2512.05658)|null|
-|**2025-12-11**|**A Greek Government Decisions Dataset for Public-Sector Analysis and Insight**|Giorgos Antoniou et.al.|[2512.05647](https://arxiv.org/abs/2512.05647)|**[link](https://github.com/Jeryi-Sun/LLM-and-Law)**|
+|**2025-12-11**|**A Greek Government Decisions Dataset for Public-Sector Analysis and Insight**|Giorgos Antoniou et.al.|[2512.05647](https://arxiv.org/abs/2512.05647)|null|
 |**2025-12-05**|**A new proof of the Théorème de Structure related to a weak solution to the Navier-Stokes equations**|Paolo Maremonti et.al.|[2512.05598](https://arxiv.org/abs/2512.05598)|null|
 |**2025-12-05**|**General and Domain-Specific Zero-shot Detection of Generated Images via Conditional Likelihood**|Roy Betser et.al.|[2512.05590](https://arxiv.org/abs/2512.05590)|**[link](https://github.com/FujitsuResearch/domain-adaptive-image-detection)**|
 |**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[2512.05511](https://arxiv.org/abs/2512.05511)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
@@ -100,7 +100,7 @@
 |**2025-12-04**|**SAM3-I: Segment Anything with Instructions**|Jingjing Li et.al.|[2512.04585](https://arxiv.org/abs/2512.04585)|**[link](https://github.com/liliu-avril/Awesome-Segment-Anything)**|
 |**2025-12-04**|**A Light-Weight Large Language Model File Format for Highly-Secure Model Distribution**|Huifeng Zhu et.al.|[2512.04580](https://arxiv.org/abs/2512.04580)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2025-12-04**|**LexGenius: An Expert-Level Benchmark for Large Language Models in Legal General Intelligence**|Wenjin Liu et.al.|[2512.04578](https://arxiv.org/abs/2512.04578)|**[link](https://huggingface.co/models/QwenQKing/LexGenius)**|
-|**2025-12-04**|**Temp-SCONE: A Novel Out-of-Distribution Detection and Domain Generalization Framework for Wild Data with Temporal Shift**|Aditi Naiknaware et.al.|[2512.04571](https://arxiv.org/abs/2512.04571)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-12-04**|**Temp-SCONE: A Novel Out-of-Distribution Detection and Domain Generalization Framework for Wild Data with Temporal Shift**|Aditi Naiknaware et.al.|[2512.04571](https://arxiv.org/abs/2512.04571)|**[link](https://github.com/Sekeh-Lab/Temp-SCONE)**|
 |**2025-12-05**|**GTM: Simulating the World of Tools for AI Agents**|Zhenzhen Ren et.al.|[2512.04535](https://arxiv.org/abs/2512.04535)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-12-04**|**Prototype-Based Semantic Consistency Alignment for Domain Adaptive Retrieval**|Tianle Hu et.al.|[2512.04524](https://arxiv.org/abs/2512.04524)|**[link](https://github.com/polyidoit/Arxiv-Quantum)**|
 |**2025-12-04**|**Adaptive Time-Domain Harmonic Control for Noise-Vibration-Harshness Reduction of Electric Drives**|Klaus Herburger et.al.|[2512.04512](https://arxiv.org/abs/2512.04512)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
@@ -1096,7 +1096,7 @@
 |**2021-04-22**|**Towards Corruption-Agnostic Robust Domain Adaptation**|Yifan Xu et.al.|[2104.10376](https://arxiv.org/abs/2104.10376)|**[link](https://github.com/tao-bai/attack-and-defense-methods)**|
 |**2019-09-09**|**Multi-layer Domain Adaptation for Deep Convolutional Networks**|Ozan Ciga et.al.|[1909.02620](https://arxiv.org/abs/1909.02620)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## VLM
 
@@ -1123,13 +1123,13 @@
 |**2025-12-11**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](https://arxiv.org/abs/2512.09924)|**[link](https://github.com/aiben-ch/LMM-Evaluation-Survey)**|
 |**2025-12-10**|**VisualActBench: Can VLMs See and Act like a Human?**|Daoan Zhang et.al.|[2512.09907](https://arxiv.org/abs/2512.09907)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2025-12-10**|**Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs**|Pius Horn et.al.|[2512.09874](https://arxiv.org/abs/2512.09874)|**[link](https://huggingface.co/datasets/piushorn/wikipedia-latex-formulas-319k)**|
-|**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Gil Weissman et.al.|[2512.09670](https://arxiv.org/abs/2512.09670)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
+|**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Gil Weissman et.al.|[2512.09670](https://arxiv.org/abs/2512.09670)|null|
 |**2025-12-10**|**Building Reasonable Inference for Vision-Language Models in Blind Image Quality Assessment**|Yuan Li et.al.|[2512.09555](https://arxiv.org/abs/2512.09555)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al.|[2512.09446](https://arxiv.org/abs/2512.09446)|null|
-|**2025-12-10**|**Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model**|Jiantao Tan et.al.|[2512.09441](https://arxiv.org/abs/2512.09441)|null|
-|**2025-12-10**|**COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning**|Lin Li et.al.|[2512.09349](https://arxiv.org/abs/2512.09349)|null|
-|**2025-12-10**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Yuanyuan Liu et.al.|[2512.09215](https://arxiv.org/abs/2512.09215)|null|
-|**2025-12-09**|**Prompt-Based Continual Compositional Zero-Shot Learning**|Sauda Maryam et.al.|[2512.09172](https://arxiv.org/abs/2512.09172)|**[link](https://github.com/suruoxi/WorldModel-VLA-arxiv-daily)**|
+|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al.|[2512.09446](https://arxiv.org/abs/2512.09446)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2025-12-10**|**Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model**|Jiantao Tan et.al.|[2512.09441](https://arxiv.org/abs/2512.09441)|**[link](https://github.com/isLinXu/paper-list)**|
+|**2025-12-10**|**COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning**|Lin Li et.al.|[2512.09349](https://arxiv.org/abs/2512.09349)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
+|**2025-12-10**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Yuanyuan Liu et.al.|[2512.09215](https://arxiv.org/abs/2512.09215)|**[link](https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Scene-Graph)**|
+|**2025-12-09**|**Prompt-Based Continual Compositional Zero-Shot Learning**|Sauda Maryam et.al.|[2512.09172](https://arxiv.org/abs/2512.09172)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2025-12-09**|**ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors**|Liming Kuang et.al.|[2512.09056](https://arxiv.org/abs/2512.09056)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
 |**2025-12-09**|**Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration**|Jin Hyeon Kim et.al.|[2512.08922](https://arxiv.org/abs/2512.08922)|**[link](https://github.com/wangkai930418/awesome-diffusion-categorized)**|
 |**2025-12-09**|**SATGround: A Spatially-Aware Approach for Visual Grounding in Remote Sensing**|Aysim Toker et.al.|[2512.08881](https://arxiv.org/abs/2512.08881)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
@@ -2749,7 +2749,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061](https://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Kaiyang Zhou et.al.|[2109.01134](https://arxiv.org/abs/2109.01134)|**[link](https://huggingface.co/models/tongyujun/Subspace_Prompting)**|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## Prompt
 
@@ -2758,13 +2758,13 @@
 |**2025-12-11**|**OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis**|Xiang Fan et.al.|[2512.10940](https://arxiv.org/abs/2512.10940)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-11**|**MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos**|Kehong Gong et.al.|[2512.10881](https://arxiv.org/abs/2512.10881)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-11**|**MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence**|Jingli Lin et.al.|[2512.10863](https://arxiv.org/abs/2512.10863)|**[link](https://huggingface.co/datasets/rbler/MMSI-Video-Bench)**|
-|**2025-12-11**|**LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification**|Michael Schlee et.al.|[2512.10793](https://arxiv.org/abs/2512.10793)|**[link](https://github.com/isLinXu/paper-list)**|
-|**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](https://arxiv.org/abs/2512.10719)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-11**|**Challenges of Evaluating LLM Safety for User Welfare**|Manon Kempermann et.al.|[2512.10687](https://arxiv.org/abs/2512.10687)|**[link](https://github.com/wonderNefelibata/Awesome-LRM-Safety)**|
+|**2025-12-11**|**LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification**|Michael Schlee et.al.|[2512.10793](https://arxiv.org/abs/2512.10793)|null|
+|**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](https://arxiv.org/abs/2512.10719)|null|
+|**2025-12-11**|**Challenges of Evaluating LLM Safety for User Welfare**|Manon Kempermann et.al.|[2512.10687](https://arxiv.org/abs/2512.10687)|null|
 |**2025-12-11**|**CAPTAIN: Semantic Feature Injection for Memorization Mitigation in Text-to-Image Diffusion Models**|Tong Zhang et.al.|[2512.10655](https://arxiv.org/abs/2512.10655)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-11**|**Analyzing developer discussions on EU and US privacy legislation compliance in GitHub repositories**|Georgia M. Kapitsaki et.al.|[2512.10618](https://arxiv.org/abs/2512.10618)|**[link](https://github.com/mitchelllisle/data-privacy-papers)**|
-|**2025-12-11**|**Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration**|Wenlong Jiao et.al.|[2512.10581](https://arxiv.org/abs/2512.10581)|null|
-|**2025-12-11**|**Grammaticality Judgments in Humans and Language Models: Revisiting Generative Grammar with LLMs**|Lars G. B. Johnsen et.al.|[2512.10453](https://arxiv.org/abs/2512.10453)|null|
+|**2025-12-11**|**Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration**|Wenlong Jiao et.al.|[2512.10581](https://arxiv.org/abs/2512.10581)|**[link](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey)**|
+|**2025-12-11**|**Grammaticality Judgments in Humans and Language Models: Revisiting Generative Grammar with LLMs**|Lars G. B. Johnsen et.al.|[2512.10453](https://arxiv.org/abs/2512.10453)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-11**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo et.al.|[2512.10449](https://arxiv.org/abs/2512.10449)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](https://arxiv.org/abs/2512.10415)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](https://arxiv.org/abs/2512.10360)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
@@ -2773,12 +2773,12 @@
 |**2025-12-11**|**DualProtoSeg: Simple and Efficient Design with Text- and Image-Guided Prototype Learning for Weakly Supervised Histopathology Image Segmentation**|Anh M. Vu et.al.|[2512.10314](https://arxiv.org/abs/2512.10314)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-11**|**ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions**|Xiaoxue Wu et.al.|[2512.10286](https://arxiv.org/abs/2512.10286)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-11**|**Investigating the origin of topological-Hall-like resistivity in Zn-doped Mn2Sb ferrimagnet**|BoCheng Yu et.al.|[2512.10285](https://arxiv.org/abs/2512.10285)|null|
-|**2025-12-11**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](https://arxiv.org/abs/2512.10264)|null|
+|**2025-12-11**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](https://arxiv.org/abs/2512.10264)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
 |**2025-12-11**|**Relaxation of time-variable neutron-loaded relativistic jets across the photosphere and their GeV-TeV neutrino counterparts**|Kanako Nakama et.al.|[2512.10253](https://arxiv.org/abs/2512.10253)|null|
 |**2025-12-11**|**EP250827b/SN 2025wkm: An X-ray Flash-Supernova Powered by a Central Engine and Circumstellar Interaction**|Gokul P. Srinivasaragavan et.al.|[2512.10239](https://arxiv.org/abs/2512.10239)|null|
 |**2025-12-11**|**On Learning-Curve Monotonicity for Maximum Likelihood Estimators**|Mark Sellke et.al.|[2512.10220](https://arxiv.org/abs/2512.10220)|null|
-|**2025-12-11**|**Offscript: Automated Auditing of Instruction Adherence in LLMs**|Nicholas Clark et.al.|[2512.10172](https://arxiv.org/abs/2512.10172)|**[link](https://github.com/Dandelight/ScholarFeed)**|
-|**2025-12-10**|**PARAN: Persona-Augmented Review ANswering system on Food Delivery Review Dataset**|Moonsoo Park et.al.|[2512.10148](https://arxiv.org/abs/2512.10148)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-12-11**|**Offscript: Automated Auditing of Instruction Adherence in LLMs**|Nicholas Clark et.al.|[2512.10172](https://arxiv.org/abs/2512.10172)|null|
+|**2025-12-10**|**PARAN: Persona-Augmented Review ANswering system on Food Delivery Review Dataset**|Moonsoo Park et.al.|[2512.10148](https://arxiv.org/abs/2512.10148)|null|
 |**2025-12-10**|**Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing**|Zhongjie Jiang et.al.|[2512.10121](https://arxiv.org/abs/2512.10121)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-10**|**LLM-PEA: Leveraging Large Language Models Against Phishing Email Attacks**|Najmul Hassan et.al.|[2512.10104](https://arxiv.org/abs/2512.10104)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-10**|**Enabling searches for long-lived particles at a future 10 TeV Muon Collider**|Mira Littmann et.al.|[2512.10097](https://arxiv.org/abs/2512.10097)|null|
@@ -5182,26 +5182,26 @@
 |**2022-05-26**|**Structured Prompt Tuning**|Chi-Liang Liu et.al.|[2205.12309](https://arxiv.org/abs/2205.12309)|**[link](https://github.com/alexfanjn/Graph-Neural-Networks-With-Heterophily)**|
 |**2022-03-15**|**PPT: Pre-trained Prompt Tuning for Few-shot Learning**|Yuxian Gu et.al.|[2109.04332](https://arxiv.org/abs/2109.04332)|**[link](https://github.com/thunlp/PromptPapers)**|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## Causal Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-11**|**Causal Reasoning Favors Encoders: On The Limits of Decoder-Only Models**|Amartya Roy et.al.|[2512.10561](https://arxiv.org/abs/2512.10561)|null|
-|**2025-12-10**|**Inference for Batched Adaptive Experiments**|Jan Kemper et.al.|[2512.10156](https://arxiv.org/abs/2512.10156)|null|
-|**2025-12-10**|**Rethinking Causal Discovery Through the Lens of Exchangeability**|Tiago Brogueira et.al.|[2512.10152](https://arxiv.org/abs/2512.10152)|null|
+|**2025-12-11**|**Causal Reasoning Favors Encoders: On The Limits of Decoder-Only Models**|Amartya Roy et.al.|[2512.10561](https://arxiv.org/abs/2512.10561)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-12-10**|**Inference for Batched Adaptive Experiments**|Jan Kemper et.al.|[2512.10156](https://arxiv.org/abs/2512.10156)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-12-10**|**Rethinking Causal Discovery Through the Lens of Exchangeability**|Tiago Brogueira et.al.|[2512.10152](https://arxiv.org/abs/2512.10152)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-12-10**|**LxCIM: a new rank-based binary classifier performance metric invariant to local exchange of classes**|Tiago Brogueira et.al.|[2512.10053](https://arxiv.org/abs/2512.10053)|null|
 |**2025-12-10**|**Cluster-Dags as Powerful Background Knowledge For Causal Discovery**|Jan Marco Ruiz de Vargas et.al.|[2512.10032](https://arxiv.org/abs/2512.10032)|null|
-|**2025-12-10**|**Multiply-robust Estimator of Cumulative Incidence Function Difference for Right-Censored Competing Risks Data**|Yifei Tian et.al.|[2512.09433](https://arxiv.org/abs/2512.09433)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-12-10**|**Multiply-robust Estimator of Cumulative Incidence Function Difference for Right-Censored Competing Risks Data**|Yifei Tian et.al.|[2512.09433](https://arxiv.org/abs/2512.09433)|null|
 |**2025-12-10**|**CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning**|Mingyuan Li et.al.|[2512.09368](https://arxiv.org/abs/2512.09368)|**[link](https://github.com/AdvancedAI-ComplexSystem/SmartCity)**|
 |**2025-12-10**|**Prenatal alcohol exposure and child cognition: semi-continuous exposures, causal inference and evidence synthesis**|Xiaoya Wang et.al.|[2512.09237](https://arxiv.org/abs/2512.09237)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
-|**2025-12-09**|**Complementary strengths of the Neyman-Rubin and graphical causal frameworks**|Tetiana Gorbach et.al.|[2512.09130](https://arxiv.org/abs/2512.09130)|null|
-|**2025-12-09**|**Causal inference under interference: computational barriers and algorithmic solutions**|Sohom Bhattacharya et.al.|[2512.08252](https://arxiv.org/abs/2512.08252)|null|
-|**2025-12-09**|**Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions**|Eunice Yiu et.al.|[2512.08230](https://arxiv.org/abs/2512.08230)|null|
+|**2025-12-09**|**Complementary strengths of the Neyman-Rubin and graphical causal frameworks**|Tetiana Gorbach et.al.|[2512.09130](https://arxiv.org/abs/2512.09130)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-12-09**|**Causal inference under interference: computational barriers and algorithmic solutions**|Sohom Bhattacharya et.al.|[2512.08252](https://arxiv.org/abs/2512.08252)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-12-09**|**Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions**|Eunice Yiu et.al.|[2512.08230](https://arxiv.org/abs/2512.08230)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2025-12-09**|**Spatially-extended Flow Phixer (SpeF-Phixer): A Spatially Extended $\varphi$ -Mixing Framework for Gene Regulatory Causal Inference in Spatial Gene Field**|Toru Nagasaka et.al.|[2512.08202](https://arxiv.org/abs/2512.08202)|null|
-|**2025-12-09**|**Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach**|Hua Yang et.al.|[2512.07814](https://arxiv.org/abs/2512.07814)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
-|**2025-12-08**|**Large Causal Models from Large Language Models**|Sridhar Mahadevan et.al.|[2512.07796](https://arxiv.org/abs/2512.07796)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
+|**2025-12-09**|**Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach**|Hua Yang et.al.|[2512.07814](https://arxiv.org/abs/2512.07814)|null|
+|**2025-12-08**|**Large Causal Models from Large Language Models**|Sridhar Mahadevan et.al.|[2512.07796](https://arxiv.org/abs/2512.07796)|**[link](https://github.com/DerekDLP/arxivpaper-daily)**|
 |**2025-12-08**|**A Large-Scale Multimodal Dataset and Benchmarks for Human Activity Scene Understanding and Reasoning**|Siyang Jiang et.al.|[2512.07136](https://arxiv.org/abs/2512.07136)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2025-12-07**|**SLOACI: Surrogate-Leveraged Online Adaptive Causal Inference**|Yingying Fan et.al.|[2512.06872](https://arxiv.org/abs/2512.06872)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-12-07**|**Making Event Study Plots Honest: A Functional Data Approach to Causal Inference**|Chencheng Fang et.al.|[2512.06804](https://arxiv.org/abs/2512.06804)|**[link](https://github.com/ccfang2/fdid)**|
@@ -5237,7 +5237,7 @@
 |**2025-12-03**|**Better World Models Can Lead to Better Post-Training Performance**|Prakhar Gupta et.al.|[2512.03400](https://arxiv.org/abs/2512.03400)|null|
 |**2025-12-02**|**Assumption-Lean Differential Variance Inference for Heterogeneous Treatment Effect Detection**|Philippe A. Boileau et.al.|[2512.03254](https://arxiv.org/abs/2512.03254)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-12-02**|**Identifying attributions of causality in political text**|Paulina Garcia-Corral et.al.|[2512.03214](https://arxiv.org/abs/2512.03214)|null|
-|**2025-12-02**|**The BEAT-CF Causal Model: A model for guiding the design of trials and observational analyses of cystic fibrosis exacerbations**|Steven Mascaro et.al.|[2512.03110](https://arxiv.org/abs/2512.03110)|null|
+|**2025-12-02**|**The BEAT-CF Causal Model: A model for guiding the design of trials and observational analyses of cystic fibrosis exacerbations**|Steven Mascaro et.al.|[2512.03110](https://arxiv.org/abs/2512.03110)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-12-02**|**Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation**|Ziniu Zhang et.al.|[2512.02920](https://arxiv.org/abs/2512.02920)|null|
 |**2025-12-02**|**Intervention Strategies for Polarization Switching in Hybrid Improper Ferroelectrics**|Ayana Ghosh et.al.|[2512.02916](https://arxiv.org/abs/2512.02916)|null|
 |**2025-12-02**|**ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning**|Yifan Li et.al.|[2512.02835](https://arxiv.org/abs/2512.02835)|**[link](https://github.com/ZhuYingJessica/cv-daily)**|
@@ -5245,7 +5245,7 @@
 |**2025-12-02**|**A Framework for Causal Concept-based Model Explanations**|Anna Rodum Bjøru et.al.|[2512.02735](https://arxiv.org/abs/2512.02735)|null|
 |**2025-12-02**|**StockMem: An Event-Reflection Memory Framework for Stock Forecasting**|He Wang et.al.|[2512.02720](https://arxiv.org/abs/2512.02720)|null|
 |**2025-12-02**|**Learning What to Attend First: Modality-Importance-Guided Reasoning for Reliable Multimodal Emotion Understanding**|Hyeongseop Rha et.al.|[2512.02699](https://arxiv.org/abs/2512.02699)|null|
-|**2025-12-02**|**An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation**|Daiki Shirafuji et.al.|[2512.02689](https://arxiv.org/abs/2512.02689)|null|
+|**2025-12-02**|**An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation**|Daiki Shirafuji et.al.|[2512.02689](https://arxiv.org/abs/2512.02689)|**[link](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)**|
 |**2025-12-02**|**Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding**|Yerim Jeon et.al.|[2512.02487](https://arxiv.org/abs/2512.02487)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
 |**2025-12-03**|**Does Hearing Help Seeing? Investigating Audio-Video Joint Denoising for Video Generation**|Jianzong Wu et.al.|[2512.02457](https://arxiv.org/abs/2512.02457)|**[link](https://huggingface.co/datasets/jianzongwu/ALT-Merge)**|
 |**2025-12-02**|**Structure and Mass-Radius Stability of Charged Compact Objects in Symmetric Teleparallel Euler-Heisenberg Gravity**|Allah Ditta et.al.|[2512.02439](https://arxiv.org/abs/2512.02439)|**[link](https://github.com/polyidoit/Arxiv-Quantum)**|
@@ -5917,5 +5917,5 @@
 |**2015-08-18**|**Lifted Representation of Relational Causal Models Revisited: Implications for Reasoning and Structure Learning**|Sanghack Lee et.al.|[1508.02103](https://arxiv.org/abs/1508.02103)|null|
 |**2017-10-18**|**Causal inference via algebraic geometry: feasibility tests for functional causal structures with two binary observed variables**|Ciarán M. Lee et.al.|[1506.03880](https://arxiv.org/abs/1506.03880)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
