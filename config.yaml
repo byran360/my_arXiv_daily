@@ -20,24 +20,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords
 keywords:
-  "Robotic Manipulation":
-    filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp"]
-  "Vision Language Action Model":
-    filters: ["Vision-Language-Action Model", "Vision Language Action Model", "World Action Model"]
-  "Humnaoid":
-    filters: ["Loco-Manipulation", "Whole-body Manipulation"]
-  "Imitation Learning":
-    filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
-  # "Robot & Agent":
-    # filters: ["Embodied Agent", "Human-Robot", "Cross-Embodiment", "World Model"]
-  # "Robotic Navigation":
-  #   filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
-  # "DA & DG":
-  #   filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
-  #     "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
-  # "VLM":
-  #   filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
-  # "Prompt":
-  #   filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
-  # "Causal Learning":
-  #   filters: ["Causal Inference", "Causal Model", "Causal Discovery", "Causal Reasoning"]
+  "Staic Manipulation":
+    filters: ["Dexterous Manipulation", "Deformable Object Manipulation"]
+  "Mobile Manipulation":
+    filters: ["Mobile Manipulation", "Quadrupedal Manipulation", "Humanoid Manipulation"]
+  "Environment Manipulation":
+    filters: ["Aerial Manipulation", "Underwater Manipulation"]
