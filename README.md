@@ -1,4 +1,4 @@
-## Updated on 2026.10.28
+## Updated on 2026.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2026-10-19**|**EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation**|Chaitanya Chawla et.al.|[2610.27242](https://arxiv.org/abs/2610.27242)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
 |**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Tianwei Luo et.al.|[2610.26765](https://arxiv.org/abs/2610.26765)|**[link](https://huggingface.co/datasets/Cyan666/HandsOn-Datasets)**|
 
-<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
 
 ## Mobile Manipulation
 
@@ -62,7 +62,7 @@
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](https://arxiv.org/abs/2610.17750)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-10-13**|**I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation**|Wensi Ai et.al.|[2610.17748](https://arxiv.org/abs/2610.17748)|**[link](https://github.com/i-3l/I3L)**|
 
-<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
 
 ## Environment Manipulation
 
@@ -89,5 +89,5 @@
 |**2026-09-10**|**Contact-Aware Incremental Model Predictive Control for an Underactuated Aerial Manipulator**|Darwin Liu et.al.|[2609.11661](https://arxiv.org/abs/2609.11661)|null|
 |**2026-09-07**|**Observer-Based Robust Control for an Aerial Manipulator System under Unknown External Disturbances**|Mayank Pandey et.al.|[2609.07114](https://arxiv.org/abs/2609.07114)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
 
