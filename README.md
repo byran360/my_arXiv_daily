@@ -1,4 +1,4 @@
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,15 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349](https://arxiv.org/abs/2610.40349)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210](https://arxiv.org/abs/2610.40210)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
+|**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Yixiao Wang et.al.|[2611.08458](https://arxiv.org/abs/2611.08458)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
+|**2026-11-04**|**Vortex-Induced Torque in Grasping Soft Objects: Influence of Geometry and Pneumatic Parameters**|Roman Mykhailyshyn et.al.|[2611.06359](https://arxiv.org/abs/2611.06359)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-04**|**Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation**|Zhengdong Hong et.al.|[2611.05979](https://arxiv.org/abs/2611.05979)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-11-03**|**GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting**|Yang Liu et.al.|[2611.05754](https://arxiv.org/abs/2611.05754)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
+|**2026-11-03**|**DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation**|Zhewei Gui et.al.|[2611.05119](https://arxiv.org/abs/2611.05119)|**[link](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)**|
+|**2026-11-03**|**DexArena: A Unified Benchmark for Long-Horizon Dexterous Manipulation**|Haonan Ping et.al.|[2611.02629](https://arxiv.org/abs/2611.02629)|**[link](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)**|
+|**2026-11-01**|**$TF^2$-Steering: Action Refinement with Tactile Forecasts and Feedback via Velocity-Field Steering**|Yiming Chen et.al.|[2611.01483](https://arxiv.org/abs/2611.01483)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
+|**2026-10-30**|**HandMimicX: Learning Human-Like Dexterous Manipulation via an Object-Centric Policy from Egocentric Videos**|Zihan Gao et.al.|[2610.41336](https://arxiv.org/abs/2610.41336)|**[link](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)**|
+|**2026-10-29**|**Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds**|Zhixuan Xu et.al.|[2610.41028](https://arxiv.org/abs/2610.41028)|**[link](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)**|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Ammar N. Abbas et.al.|[2610.40828](https://arxiv.org/abs/2610.40828)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349](https://arxiv.org/abs/2610.40349)|null|
+|**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210](https://arxiv.org/abs/2610.40210)|null|
 |**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109](https://arxiv.org/abs/2610.40109)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
 |**2026-10-29**|**Mastering Multi-State Dynamics: Continuum Damage and Viscoplastic MPM for RL-Based Dexterous Manipulation**|Yusen Feng et.al.|[2610.39975](https://arxiv.org/abs/2610.39975)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-10-29**|**Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment**|Xinyuan He et.al.|[2610.39582](https://arxiv.org/abs/2610.39582)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-10-29**|**Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection**|Li Guan et.al.|[2610.39076](https://arxiv.org/abs/2610.39076)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
+|**2026-10-29**|**Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment**|Xinyuan He et.al.|[2610.39582](https://arxiv.org/abs/2610.39582)|**[link](https://github.com/linchangyi1/Awesome-Touch)**|
+|**2026-11-04**|**Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection**|Li Guan et.al.|[2610.39076](https://arxiv.org/abs/2610.39076)|**[link](https://github.com/linchangyi1/Awesome-Touch)**|
 |**2026-10-27**|**Echo: Scaling Visual Reinforcement Learning with Off-policy Experience**|Gagan Khandate et.al.|[2610.37865](https://arxiv.org/abs/2610.37865)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-10-27**|**DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks**|Anas Houssaini et.al.|[2610.37799](https://arxiv.org/abs/2610.37799)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-10-27**|**Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well**|Ian Chuang et.al.|[2610.37652](https://arxiv.org/abs/2610.37652)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-10-27**|**DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks**|Anas Houssaini et.al.|[2610.37799](https://arxiv.org/abs/2610.37799)|**[link](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)**|
+|**2026-11-03**|**Dexterous In-Hand Object Pose Reaching with Learned Safety Filters**|Ian Chuang et.al.|[2610.37652](https://arxiv.org/abs/2610.37652)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-10-27**|**A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation**|Jihao Li et.al.|[2610.36789](https://arxiv.org/abs/2610.36789)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
 |**2026-10-27**|**CARD: Contact-Anchored Retargeting for Dexterous Manipulation**|Cunxi Dai et.al.|[2610.36539](https://arxiv.org/abs/2610.36539)|**[link](https://huggingface.co/models/boootaooo/Vid-HACO)**|
 |**2026-10-26**|**DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection**|Jooyoung Hong et.al.|[2610.35462](https://arxiv.org/abs/2610.35462)|null|
@@ -43,17 +53,30 @@
 |**2026-10-19**|**EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation**|Chaitanya Chawla et.al.|[2610.27242](https://arxiv.org/abs/2610.27242)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
 |**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Tianwei Luo et.al.|[2610.26765](https://arxiv.org/abs/2610.26765)|**[link](https://huggingface.co/datasets/Cyan666/HandsOn-Datasets)**|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## Mobile Manipulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Sateesh Kumar et.al.|[2611.08372](https://arxiv.org/abs/2611.08372)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
+|**2026-11-05**|**Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory**|Nicholas Paul et.al.|[2611.07493](https://arxiv.org/abs/2611.07493)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-11-05**|**MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments**|Kenneth Llontop et.al.|[2611.07417](https://arxiv.org/abs/2611.07417)|null|
+|**2026-11-04**|**Robocasa-Mem: Benchmarking Environment and Process Memory in Long-Horizon Mobile Manipulation**|Sihang Chen et.al.|[2611.06475](https://arxiv.org/abs/2611.06475)|null|
+|**2026-11-04**|**Reality and Perceptual Gaps in Expressive Swarm Robotics**|Ali Imran et.al.|[2611.05244](https://arxiv.org/abs/2611.05244)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-11-03**|**RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks**|Donggeon Kim et.al.|[2611.04334](https://arxiv.org/abs/2611.04334)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
+|**2026-11-02**|**FEIJOA: Task-Driven Grounding and Execution for Mobile Manipulation**|Aditya Agarwal et.al.|[2611.04080](https://arxiv.org/abs/2611.04080)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-02**|**Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation**|Tony Tao et.al.|[2611.03648](https://arxiv.org/abs/2611.03648)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
+|**2026-11-02**|**Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations**|Jason Jingzhou Liu et.al.|[2611.03647](https://arxiv.org/abs/2611.03647)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
+|**2026-11-02**|**TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation**|Utkarsh A. Mishra et.al.|[2611.03584](https://arxiv.org/abs/2611.03584)|**[link](https://github.com/visitworld123/Awesome-Robot-Use-Agent)**|
+|**2026-11-02**|**ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation**|Zhongkai Gu et.al.|[2611.02968](https://arxiv.org/abs/2611.02968)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
+|**2026-10-31**|**MOST: Memory of Object States and Task Progress for Long-Horizon Mobile Manipulation**|Diqi He et.al.|[2611.00734](https://arxiv.org/abs/2611.00734)|**[link](https://github.com/Intelligent-Interaction/MOST-vla)**|
+|**2026-10-31**|**WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation**|Jiaming Wang et.al.|[2611.00513](https://arxiv.org/abs/2611.00513)|**[link](https://github.com/visitworld123/Awesome-Robot-Use-Agent)**|
 |**2026-10-28**|**ELEVATE: Agentic Controller Acquisition from Task Failure for Quadrupedal Manipulation**|Shiqi Liu et.al.|[2610.38388](https://arxiv.org/abs/2610.38388)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-10-28**|**HERON: Real-Time Obstacle-Aware Reachability Maps for Mobile Manipulators**|G. Dupoiron et.al.|[2610.38233](https://arxiv.org/abs/2610.38233)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-10-27**|**On Shaky Ground: Characterising Non-Rigid Base Effects in Mobile Manipulation**|Zongyuan Zhang et.al.|[2610.36725](https://arxiv.org/abs/2610.36725)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-10-25**|**TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning**|Sooyoung Kwon et.al.|[2610.34519](https://arxiv.org/abs/2610.34519)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-10-21**|**Object- and Task-Aware Active Perception for Safe Navigation of Mobile Manipulators in Semi-Static Environments**|Jingxing Qian et.al.|[2610.29964](https://arxiv.org/abs/2610.29964)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
+|**2026-10-28**|**HERON: Real-Time Obstacle-Aware Reachability Maps for Mobile Manipulators**|G. Dupoiron et.al.|[2610.38233](https://arxiv.org/abs/2610.38233)|null|
+|**2026-10-27**|**On Shaky Ground: Characterising Non-Rigid Base Effects in Mobile Manipulation**|Zongyuan Zhang et.al.|[2610.36725](https://arxiv.org/abs/2610.36725)|null|
+|**2026-10-25**|**TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning**|Sooyoung Kwon et.al.|[2610.34519](https://arxiv.org/abs/2610.34519)|null|
+|**2026-10-21**|**Object- and Task-Aware Active Perception for Safe Navigation of Mobile Manipulators in Semi-Static Environments**|Jingxing Qian et.al.|[2610.29964](https://arxiv.org/abs/2610.29964)|null|
 |**2026-10-21**|**CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion**|Kai Zhu et.al.|[2610.29915](https://arxiv.org/abs/2610.29915)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-10-20**|**COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation**|Jiahui Yang et.al.|[2610.28948](https://arxiv.org/abs/2610.28948)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-19**|**HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control**|Langzhe Gu et.al.|[2610.26584](https://arxiv.org/abs/2610.26584)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
@@ -72,28 +95,29 @@
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](https://arxiv.org/abs/2610.17750)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-10-13**|**I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation**|Wensi Ai et.al.|[2610.17748](https://arxiv.org/abs/2610.17748)|**[link](https://github.com/i-3l/I3L)**|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## Environment Manipulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-01**|**Dual Path Following for an Aerial Manipulator Under State and Input Constraints via Transverse Feedback Linearization**|Hamza Tariq et.al.|[2611.01442](https://arxiv.org/abs/2611.01442)|**[link](https://github.com/gradslab/am_dual_pf-)**|
 |**2026-10-29**|**CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments**|Meng Wang et.al.|[2610.39119](https://arxiv.org/abs/2610.39119)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-28**|**Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation**|Greta Perez-Haiek et.al.|[2610.38199](https://arxiv.org/abs/2610.38199)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-25**|**Nonlinear Control of Aerial Manipulator**|Sandesh Thapa et.al.|[2610.34454](https://arxiv.org/abs/2610.34454)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-10-22**|**Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation**|Jingyu Ru et.al.|[2610.30810](https://arxiv.org/abs/2610.30810)|null|
-|**2026-10-29**|**CALM: Decentralized Control of Cooperative Aerial Manipulation with Multi-Agent Reinforcement Learning**|Jiaxi Huo et.al.|[2610.18425](https://arxiv.org/abs/2610.18425)|null|
+|**2026-10-22**|**Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation**|Jingyu Ru et.al.|[2610.30810](https://arxiv.org/abs/2610.30810)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-10-29**|**CALM: Decentralized Control of Cooperative Aerial Manipulation with Multi-Agent Reinforcement Learning**|Jiaxi Huo et.al.|[2610.18425](https://arxiv.org/abs/2610.18425)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-10-10**|**Shared-Control Teleoperation of Omnidirectional Aerial Robots for Continuous Valve Rotation**|Jinjie Li et.al.|[2610.14478](https://arxiv.org/abs/2610.14478)|null|
 |**2026-10-09**|**Cooperative Aerial Transportation of a Payload with a Sliding Cable Attachment**|Sebastian Tilaguy Lezama et.al.|[2610.13665](https://arxiv.org/abs/2610.13665)|null|
 |**2026-10-08**|**Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback**|Jaewoo Lee et.al.|[2610.12549](https://arxiv.org/abs/2610.12549)|null|
-|**2026-10-03**|**WasserMan: Benchmark for Underwater Manipulation Policy Learning**|Danil Belov et.al.|[2610.04536](https://arxiv.org/abs/2610.04536)|**[link](https://huggingface.co/models/dancher00/WasserMan-models)**|
-|**2026-09-30**|**Passive Stiffness Shaping in Cable-Suspended Aerial Manipulation via Movable Compliant Anchors**|Antonio Franchi et.al.|[2609.40102](https://arxiv.org/abs/2609.40102)|null|
+|**2026-11-01**|**WasserMan: Benchmark for Underwater Manipulation Policy Learning**|Danil Belov et.al.|[2610.04536](https://arxiv.org/abs/2610.04536)|**[link](https://huggingface.co/models/dancher00/WasserMan-models)**|
+|**2026-09-30**|**Passive Stiffness Shaping in Cable-Suspended Aerial Manipulation via Movable Compliant Anchors**|Antonio Franchi et.al.|[2609.40102](https://arxiv.org/abs/2609.40102)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
 |**2026-09-30**|**From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation**|Weixiang Guo et.al.|[2609.39670](https://arxiv.org/abs/2609.39670)|null|
 |**2026-09-29**|**Drone Soccer: Learning to Manipulate with Multicopter Downwash**|Neelay Joglekar et.al.|[2609.38588](https://arxiv.org/abs/2609.38588)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915](https://arxiv.org/abs/2609.36915)|**[link](https://github.com/RuiHuangNUS/AeroManip-VLA)**|
-|**2026-09-28**|**QuadHand: A Compact Quadrotor Aerial Manipulator with MRC-SDF-Based Whole-Body Motion Planning**|Rui Jin et.al.|[2609.35094](https://arxiv.org/abs/2609.35094)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
-|**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521](https://arxiv.org/abs/2609.30521)|**[link](https://github.com/vergilshawn/Awesome-Humanoid-Robot-Learning)**|
-|**2026-09-22**|**AeRSoM: An Aerial Rigid-Soft Integrated Manipulator for Contact-Rich Manipulation**|Jiacheng Liang et.al.|[2609.28044](https://arxiv.org/abs/2609.28044)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
+|**2026-09-28**|**QuadHand: A Compact Quadrotor Aerial Manipulator with MRC-SDF-Based Whole-Body Motion Planning**|Rui Jin et.al.|[2609.35094](https://arxiv.org/abs/2609.35094)|null|
+|**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521](https://arxiv.org/abs/2609.30521)|null|
+|**2026-09-22**|**AeRSoM: An Aerial Rigid-Soft Integrated Manipulator for Contact-Rich Manipulation**|Jiacheng Liang et.al.|[2609.28044](https://arxiv.org/abs/2609.28044)|null|
 |**2026-10-03**|**A Switched Adaptive Control Framework for Aerial Manipulators Under Dynamic Transitions**|Rishabh Dev Yadav et.al.|[2609.24761](https://arxiv.org/abs/2609.24761)|null|
 |**2026-09-16**|**A Morphing Aerial Robot With Thruster-Integrated Flexible Continuum Links for Shape Adaptive Aerial Manipulation**|Eri Sawada et.al.|[2609.19328](https://arxiv.org/abs/2609.19328)|null|
 |**2026-09-14**|**DuctAM: A Duct-Assisted Quadrotor-Based Aerial Manipulator Enabling High-Force Push-and-Pull Interactions**|Yi Wang et.al.|[2609.15861](https://arxiv.org/abs/2609.15861)|null|
@@ -101,5 +125,5 @@
 |**2026-09-10**|**Contact-Aware Incremental Model Predictive Control for an Underactuated Aerial Manipulator**|Darwin Liu et.al.|[2609.11661](https://arxiv.org/abs/2609.11661)|null|
 |**2026-09-07**|**Observer-Based Robust Control for an Aerial Manipulator System under Unknown External Disturbances**|Mayank Pandey et.al.|[2609.07114](https://arxiv.org/abs/2609.07114)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
