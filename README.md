@@ -1,4 +1,4 @@
-## Updated on 2026.11.07
+## Updated on 2026.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Ammar N. Abbas et.al.|[2610.40828](https://arxiv.org/abs/2610.40828)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349](https://arxiv.org/abs/2610.40349)|null|
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210](https://arxiv.org/abs/2610.40210)|null|
-|**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109](https://arxiv.org/abs/2610.40109)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
+|**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109](https://arxiv.org/abs/2610.40109)|**[link](https://github.com/Cashcoin123/Cashcoin123)**|
 |**2026-10-29**|**Mastering Multi-State Dynamics: Continuum Damage and Viscoplastic MPM for RL-Based Dexterous Manipulation**|Yusen Feng et.al.|[2610.39975](https://arxiv.org/abs/2610.39975)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-29**|**Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment**|Xinyuan He et.al.|[2610.39582](https://arxiv.org/abs/2610.39582)|**[link](https://github.com/linchangyi1/Awesome-Touch)**|
 |**2026-11-04**|**Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection**|Li Guan et.al.|[2610.39076](https://arxiv.org/abs/2610.39076)|**[link](https://github.com/linchangyi1/Awesome-Touch)**|
@@ -53,7 +53,7 @@
 |**2026-10-19**|**EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation**|Chaitanya Chawla et.al.|[2610.27242](https://arxiv.org/abs/2610.27242)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
 |**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Tianwei Luo et.al.|[2610.26765](https://arxiv.org/abs/2610.26765)|**[link](https://huggingface.co/datasets/Cyan666/HandsOn-Datasets)**|
 
-<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
 
 ## Mobile Manipulation
 
@@ -95,7 +95,7 @@
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](https://arxiv.org/abs/2610.17750)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-10-13**|**I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation**|Wensi Ai et.al.|[2610.17748](https://arxiv.org/abs/2610.17748)|**[link](https://github.com/i-3l/I3L)**|
 
-<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
 
 ## Environment Manipulation
 
@@ -125,5 +125,5 @@
 |**2026-09-10**|**Contact-Aware Incremental Model Predictive Control for an Underactuated Aerial Manipulator**|Darwin Liu et.al.|[2609.11661](https://arxiv.org/abs/2609.11661)|null|
 |**2026-09-07**|**Observer-Based Robust Control for an Aerial Manipulator System under Unknown External Disturbances**|Mayank Pandey et.al.|[2609.07114](https://arxiv.org/abs/2609.07114)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
 

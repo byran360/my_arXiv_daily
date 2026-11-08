@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.07
+## Updated on 2026.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Staic Manipulation
@@ -21,7 +21,7 @@ layout: default
 |**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Ammar N. Abbas et.al.|[2610.40828](https://arxiv.org/abs/2610.40828)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349](https://arxiv.org/abs/2610.40349)|null|
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210](https://arxiv.org/abs/2610.40210)|null|
-|**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109](https://arxiv.org/abs/2610.40109)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
+|**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109](https://arxiv.org/abs/2610.40109)|**[link](https://github.com/Cashcoin123/Cashcoin123)**|
 |**2026-10-29**|**Mastering Multi-State Dynamics: Continuum Damage and Viscoplastic MPM for RL-Based Dexterous Manipulation**|Yusen Feng et.al.|[2610.39975](https://arxiv.org/abs/2610.39975)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-29**|**Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment**|Xinyuan He et.al.|[2610.39582](https://arxiv.org/abs/2610.39582)|**[link](https://github.com/linchangyi1/Awesome-Touch)**|
 |**2026-11-04**|**Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection**|Li Guan et.al.|[2610.39076](https://arxiv.org/abs/2610.39076)|**[link](https://github.com/linchangyi1/Awesome-Touch)**|
