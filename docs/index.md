@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Staic Manipulation
@@ -52,13 +52,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Sateesh Kumar et.al.|[2611.08372](https://arxiv.org/abs/2611.08372)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
-|**2026-11-05**|**Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory**|Nicholas Paul et.al.|[2611.07493](https://arxiv.org/abs/2611.07493)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
-|**2026-11-05**|**MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments**|Kenneth Llontop et.al.|[2611.07417](https://arxiv.org/abs/2611.07417)|null|
-|**2026-11-04**|**Robocasa-Mem: Benchmarking Environment and Process Memory in Long-Horizon Mobile Manipulation**|Sihang Chen et.al.|[2611.06475](https://arxiv.org/abs/2611.06475)|null|
-|**2026-11-04**|**Reality and Perceptual Gaps in Expressive Swarm Robotics**|Ali Imran et.al.|[2611.05244](https://arxiv.org/abs/2611.05244)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-11-03**|**RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks**|Donggeon Kim et.al.|[2611.04334](https://arxiv.org/abs/2611.04334)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
-|**2026-11-02**|**FEIJOA: Task-Driven Grounding and Execution for Mobile Manipulation**|Aditya Agarwal et.al.|[2611.04080](https://arxiv.org/abs/2611.04080)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-10**|**WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge**|Yelin He et.al.|[2611.13818](https://arxiv.org/abs/2611.13818)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-09**|**Benchmarking Real-World Robotic Manipulation through Stochastic Challenges**|Elias Gläßer et.al.|[2611.12804](https://arxiv.org/abs/2611.12804)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-09**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854](https://arxiv.org/abs/2611.11854)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
+|**2026-11-07**|**Zero-Shot VLA Adaptation with Retrieved Guidance**|Subin Kim et.al.|[2611.10894](https://arxiv.org/abs/2611.10894)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Chen Chen et.al.|[2611.09892](https://arxiv.org/abs/2611.09892)|**[link](https://github.com/YanjieZe/Paper-List)**|
+|**2026-11-06**|**Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation**|Xun Tu et.al.|[2611.09864](https://arxiv.org/abs/2611.09864)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Sateesh Kumar et.al.|[2611.08372](https://arxiv.org/abs/2611.08372)|**[link](https://github.com/Vincentqyw/cv-arxiv-daily)**|
+|**2026-11-05**|**Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory**|Nicholas Paul et.al.|[2611.07493](https://arxiv.org/abs/2611.07493)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-11-05**|**MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments**|Kenneth Llontop et.al.|[2611.07417](https://arxiv.org/abs/2611.07417)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-11-04**|**Robocasa-Mem: Benchmarking Environment and Process Memory in Long-Horizon Mobile Manipulation**|Sihang Chen et.al.|[2611.06475](https://arxiv.org/abs/2611.06475)|**[link](https://github.com/Vincentqyw/cv-arxiv-daily)**|
+|**2026-11-04**|**Reality and Perceptual Gaps in Expressive Swarm Robotics**|Ali Imran et.al.|[2611.05244](https://arxiv.org/abs/2611.05244)|null|
+|**2026-11-03**|**RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks**|Donggeon Kim et.al.|[2611.04334](https://arxiv.org/abs/2611.04334)|null|
+|**2026-11-02**|**FEIJOA: Task-Driven Grounding and Execution for Mobile Manipulation**|Aditya Agarwal et.al.|[2611.04080](https://arxiv.org/abs/2611.04080)|null|
 |**2026-11-02**|**Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation**|Tony Tao et.al.|[2611.03648](https://arxiv.org/abs/2611.03648)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
 |**2026-11-02**|**Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations**|Jason Jingzhou Liu et.al.|[2611.03647](https://arxiv.org/abs/2611.03647)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
 |**2026-11-02**|**TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation**|Utkarsh A. Mishra et.al.|[2611.03584](https://arxiv.org/abs/2611.03584)|**[link](https://github.com/visitworld123/Awesome-Robot-Use-Agent)**|
@@ -93,21 +99,21 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-11-01**|**Dual Path Following for an Aerial Manipulator Under State and Input Constraints via Transverse Feedback Linearization**|Hamza Tariq et.al.|[2611.01442](https://arxiv.org/abs/2611.01442)|**[link](https://github.com/gradslab/am_dual_pf-)**|
-|**2026-10-29**|**CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments**|Meng Wang et.al.|[2610.39119](https://arxiv.org/abs/2610.39119)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-10-29**|**CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments**|Meng Wang et.al.|[2610.39119](https://arxiv.org/abs/2610.39119)|null|
 |**2026-10-28**|**Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation**|Greta Perez-Haiek et.al.|[2610.38199](https://arxiv.org/abs/2610.38199)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-25**|**Nonlinear Control of Aerial Manipulator**|Sandesh Thapa et.al.|[2610.34454](https://arxiv.org/abs/2610.34454)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-10-22**|**Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation**|Jingyu Ru et.al.|[2610.30810](https://arxiv.org/abs/2610.30810)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-10-29**|**CALM: Decentralized Control of Cooperative Aerial Manipulation with Multi-Agent Reinforcement Learning**|Jiaxi Huo et.al.|[2610.18425](https://arxiv.org/abs/2610.18425)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
+|**2026-10-29**|**CALM: Decentralized Control of Cooperative Aerial Manipulation with Multi-Agent Reinforcement Learning**|Jiaxi Huo et.al.|[2610.18425](https://arxiv.org/abs/2610.18425)|null|
 |**2026-10-10**|**Shared-Control Teleoperation of Omnidirectional Aerial Robots for Continuous Valve Rotation**|Jinjie Li et.al.|[2610.14478](https://arxiv.org/abs/2610.14478)|null|
 |**2026-10-09**|**Cooperative Aerial Transportation of a Payload with a Sliding Cable Attachment**|Sebastian Tilaguy Lezama et.al.|[2610.13665](https://arxiv.org/abs/2610.13665)|null|
-|**2026-10-08**|**Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback**|Jaewoo Lee et.al.|[2610.12549](https://arxiv.org/abs/2610.12549)|null|
+|**2026-10-08**|**Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback**|Jaewoo Lee et.al.|[2610.12549](https://arxiv.org/abs/2610.12549)|**[link](https://github.com/visitworld123/Awesome-Robot-Use-Agent)**|
 |**2026-11-01**|**WasserMan: Benchmark for Underwater Manipulation Policy Learning**|Danil Belov et.al.|[2610.04536](https://arxiv.org/abs/2610.04536)|**[link](https://huggingface.co/models/dancher00/WasserMan-models)**|
-|**2026-09-30**|**Passive Stiffness Shaping in Cable-Suspended Aerial Manipulation via Movable Compliant Anchors**|Antonio Franchi et.al.|[2609.40102](https://arxiv.org/abs/2609.40102)|null|
+|**2026-09-30**|**Passive Stiffness Shaping in Cable-Suspended Aerial Manipulation via Movable Compliant Anchors**|Antonio Franchi et.al.|[2609.40102](https://arxiv.org/abs/2609.40102)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
 |**2026-09-30**|**From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation**|Weixiang Guo et.al.|[2609.39670](https://arxiv.org/abs/2609.39670)|null|
-|**2026-09-29**|**Drone Soccer: Learning to Manipulate with Multicopter Downwash**|Neelay Joglekar et.al.|[2609.38588](https://arxiv.org/abs/2609.38588)|null|
-|**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915](https://arxiv.org/abs/2609.36915)|**[link](https://github.com/RuiHuangNUS/AeroManip-VLA)**|
-|**2026-09-28**|**QuadHand: A Compact Quadrotor Aerial Manipulator with MRC-SDF-Based Whole-Body Motion Planning**|Rui Jin et.al.|[2609.35094](https://arxiv.org/abs/2609.35094)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
-|**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521](https://arxiv.org/abs/2609.30521)|**[link](https://github.com/vergilshawn/Awesome-Humanoid-Robot-Learning)**|
+|**2026-09-29**|**Drone Soccer: Learning to Manipulate with Multicopter Downwash**|Neelay Joglekar et.al.|[2609.38588](https://arxiv.org/abs/2609.38588)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
+|**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915](https://arxiv.org/abs/2609.36915)|null|
+|**2026-09-28**|**QuadHand: A Compact Quadrotor Aerial Manipulator with MRC-SDF-Based Whole-Body Motion Planning**|Rui Jin et.al.|[2609.35094](https://arxiv.org/abs/2609.35094)|null|
+|**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521](https://arxiv.org/abs/2609.30521)|null|
 |**2026-09-22**|**AeRSoM: An Aerial Rigid-Soft Integrated Manipulator for Contact-Rich Manipulation**|Jiacheng Liang et.al.|[2609.28044](https://arxiv.org/abs/2609.28044)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-10-03**|**A Switched Adaptive Control Framework for Aerial Manipulators Under Dynamic Transitions**|Rishabh Dev Yadav et.al.|[2609.24761](https://arxiv.org/abs/2609.24761)|null|
 |**2026-09-16**|**A Morphing Aerial Robot With Thruster-Integrated Flexible Continuum Links for Shape Adaptive Aerial Manipulation**|Eri Sawada et.al.|[2609.19328](https://arxiv.org/abs/2609.19328)|null|
